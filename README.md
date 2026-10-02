@@ -49,4 +49,4 @@ Crawl-Dateien live:
 2. Domain verifizieren (DNS oder Import aus Google Search Console).
 3. Sitemap `https://immobiliekonstanz.de/sitemap.xml` einreichen.
 
-Hinweis: Diese Landing ist eine Referral-Seite (kein LocalBusiness-Schema für Eichmann auf dieser Domain). Der dofollow-Backlink mit Ankertext „Immobilienmakler Konstanz – Eichmann Immobilien“ zeigt auf `https://immobilieneichmann.de/`.
+Hinweis: Diese Landing ist eine Referral-Seite mit schema.org **RealEstateAgent** + **LocalBusiness** (NAP aus dem Impressum von Immobilien Eichmann) sowie WebSite/WebPage/BreadcrumbList. Der dofollow-Backlink mit Ankertext „Immobilienmakler Konstanz – Eichmann Immobilien“ zeigt auf `https://immobilieneichmann.de/`.

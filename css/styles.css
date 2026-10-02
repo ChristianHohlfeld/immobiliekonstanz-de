@@ -181,3 +181,46 @@ img { max-width: 100%; height: auto; }
   max-width: 52rem;
 }
 .about-card p:last-child { margin-bottom: 0; }
+
+.breadcrumb {
+  padding: 0.85rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+.breadcrumb ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+.breadcrumb li:not(:last-child)::after {
+  content: "›";
+  margin-left: 0.35rem;
+  color: #9aa3b0;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+}
+.breadcrumb a:hover { color: var(--brand-2); }
+.breadcrumb [aria-current="page"] { color: var(--ink); font-weight: 600; }
+
+.hero-card .nap {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--ink);
+  padding: 0.7rem 0.8rem;
+  background: #f3f6f9;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+}
+.hero-card .nap a { color: var(--brand-2); text-decoration: none; font-weight: 600; }
+.hero-card .nap a:hover { text-decoration: underline; }
+
+.about-card h2 + h2,
+.about-card h2#region-heading {
+  margin-top: 1.25rem;
+}

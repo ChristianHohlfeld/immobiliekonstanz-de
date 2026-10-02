@@ -30,10 +30,14 @@ Siehe Issue/Report der Einrichtung; Apex-A/AAAA auf GitHub Pages, `www` als CNAM
 
 ## SEO / Search Console (manuell durch Chris)
 
-Crawl-Dateien live:
+Crawl- / Discovery-Dateien live:
 
 - `https://immobiliekonstanz.de/robots.txt`
 - `https://immobiliekonstanz.de/sitemap.xml`
+- `https://immobiliekonstanz.de/llms.txt` (Zweck, Eichmann-Link, DigiPlan-News-Hub — keine Artikelkopien)
+- `https://immobiliekonstanz.de/humans.txt`
+- `https://immobiliekonstanz.de/.well-known/security.txt`
+- Favicon / Apple-Touch: `/assets/favicon.svg`, `/assets/favicon-32.png`, `/assets/apple-touch-icon.png`
 
 ### Google Search Console
 

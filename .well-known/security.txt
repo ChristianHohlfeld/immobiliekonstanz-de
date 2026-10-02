@@ -1,0 +1,6 @@
+Contact: mailto:info@immobilien-eichmann.com
+Expires: 2027-10-02T00:00:00+02:00
+Preferred-Languages: de, en
+Canonical: https://immobiliekonstanz.de/.well-known/security.txt
+Policy: https://immobiliekonstanz.de/datenschutz.html
+Acknowledgments: https://immobilieneichmann.de/impressum.html

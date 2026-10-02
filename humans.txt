@@ -1,0 +1,13 @@
+/* TEAM */
+Site: immobiliekonstanz.de
+Purpose: Landing + Branchennews-Link-Hub für Immobilienmakler Konstanz
+Partner / Makler: Immobilien Eichmann — https://immobilieneichmann.de/
+News-Quelle: Digitalisierungsplanung Aktuell — https://aktuell.digitalisierungsplanung.de/
+Contact (Makler): info@immobilien-eichmann.com
+
+/* SITE */
+Standards: HTML5, CSS3, schema.org (RealEstateAgent / LocalBusiness)
+Language: de-DE
+Hosting: GitHub Pages
+Doctype: HTML5
+Last update: 2026-10-02

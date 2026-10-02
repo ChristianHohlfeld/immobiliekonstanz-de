@@ -1,0 +1,45 @@
+# immobiliekonstanz.de
+
+> Öffentliche Landing für Immobilienmakler Konstanz / Bodensee. Sprache: de.
+> Kein zweites Makler-Portal — faktischer Einstieg zum Partner Immobilien Eichmann.
+> Branchennews nur als Link-Index zu Digitalisierungsplanung Aktuell (keine Artikelkopien).
+
+## Purpose
+
+- Einstiegsseite für Suchende nach Immobilienmakler Konstanz, Makler Konstanz, Immobilien Konstanz und Immobilienmakler Bodensee.
+- Verweist für Kauf, Verkauf, Bewertung und Kontakt auf das Maklerbüro Immobilien Eichmann.
+- Aggregiert Branchenmeldungen (KI, Prozesse, Wohnungswirtschaft, Makler, Energie, Finanzen, Regulierung) als Titel/Teaser/Link — Volltext bleibt bei DigiPlan.
+
+## Makler / Partner (Immobilien Eichmann)
+
+- Web: https://immobilieneichmann.de/
+- Angebote: https://immobilieneichmann.de/#angebote
+- Kontakt: https://immobilieneichmann.de/kontakt.html
+- Impressum (Anbieterkennzeichnung): https://immobilieneichmann.de/impressum.html
+- AI-Index / llms.txt (Objekte, NAP, MCP): https://immobilieneichmann.de/llms.txt
+- NAP: Immobilien Eichmann · Helmut Eichmann · Jacob-Burckhardt-Str. 40, 78464 Konstanz · +49 170 5225568 / +49 7531 9228848 · info@immobilien-eichmann.com
+
+## News-Hub (DigiPlan-Originale — keine Volltextkopien)
+
+- Hub auf dieser Seite: https://immobiliekonstanz.de/#branchennews
+- Maschinenlesbarer Index: https://immobiliekonstanz.de/data/news.json
+- Quelle / Volltexte: https://aktuell.digitalisierungsplanung.de/
+- Artikel-URL-Muster: https://aktuell.digitalisierungsplanung.de/artikel/<slug>/
+- DigiPlan llms.txt: https://aktuell.digitalisierungsplanung.de/llms.txt
+- Kategorien bei DigiPlan: KI, Prozesse, Wohnungswirtschaft, Energie, Finanzen, Regulierung
+
+## Wichtige Seiten (diese Domain)
+
+- Start: https://immobiliekonstanz.de/
+- Impressum: https://immobiliekonstanz.de/impressum.html
+- Datenschutz: https://immobiliekonstanz.de/datenschutz.html
+- Sitemap: https://immobiliekonstanz.de/sitemap.xml
+- robots.txt: https://immobiliekonstanz.de/robots.txt
+- humans.txt: https://immobiliekonstanz.de/humans.txt
+- security.txt: https://immobiliekonstanz.de/.well-known/security.txt
+
+## Boundaries
+
+- Keine Duplikate von DigiPlan-Artikelkörpern auf dieser Domain.
+- Keine Objekt-Exposés hier — Angebote und Exposés nur unter immobilieneichmann.de.
+- Keine Werbung / ads.txt; cookieless Landing ohne Ad-Tracker.

@@ -1,4 +1,16 @@
 User-agent: *
 Allow: /
+Allow: /llms.txt
+Allow: /humans.txt
+Allow: /sitemap.xml
+Allow: /.well-known/
+Allow: /assets/
+Allow: /data/news.json
+
+# AI / Agent discovery (intentional crawl of public landing + link-hub)
+# - llms.txt → Zweck, Eichmann-Maklerlink, News-Hub (nur Links zu DigiPlan-Originalen)
+# - data/news.json → maschinenlesbarer Link-Index (Titel/Teaser/URL, keine Volltexte)
+# - Sitemap → HTML-Seiten dieser Domain
+# Vollständige Artikel nur bei https://aktuell.digitalisierungsplanung.de/
 
 Sitemap: https://immobiliekonstanz.de/sitemap.xml

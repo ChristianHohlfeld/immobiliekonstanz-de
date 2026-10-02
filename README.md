@@ -27,3 +27,26 @@ Publishing: Branch `main`, Ordner `/` (Root). Custom Domain: `immobiliekonstanz.
 ## DNS (Domain Factory — manuell)
 
 Siehe Issue/Report der Einrichtung; Apex-A/AAAA auf GitHub Pages, `www` als CNAME auf `christianhohlfeld.github.io`.
+
+## SEO / Search Console (manuell durch Chris)
+
+Crawl-Dateien live:
+
+- `https://immobiliekonstanz.de/robots.txt`
+- `https://immobiliekonstanz.de/sitemap.xml`
+
+### Google Search Console
+
+1. [Google Search Console](https://search.google.com/search-console) öffnen → **Property hinzufügen**.
+2. **Domain-Property** `immobiliekonstanz.de` wählen (empfohlen; deckt http/https und www ab).
+3. DNS-TXT-Verifizierung bei Domain Factory setzen (Token aus der GSC-Oberfläche).
+4. Nach Verifizierung: **Sitemaps** → `https://immobiliekonstanz.de/sitemap.xml` einreichen.
+5. Optional: URL-Prüfung für `https://immobiliekonstanz.de/` → Indexierung beantragen.
+
+### Bing Webmaster Tools
+
+1. [Bing Webmaster Tools](https://www.bing.com/webmasters) → Site hinzufügen.
+2. Domain verifizieren (DNS oder Import aus Google Search Console).
+3. Sitemap `https://immobiliekonstanz.de/sitemap.xml` einreichen.
+
+Hinweis: Diese Landing ist eine Referral-Seite (kein LocalBusiness-Schema für Eichmann auf dieser Domain). Der dofollow-Backlink mit Ankertext „Immobilienmakler Konstanz – Eichmann Immobilien“ zeigt auf `https://immobilieneichmann.de/`.

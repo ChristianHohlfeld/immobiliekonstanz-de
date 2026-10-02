@@ -160,3 +160,24 @@ img { max-width: 100%; height: auto; }
   .hero-grid { grid-template-columns: 1fr; }
   .header-inner { align-items: start; flex-direction: column; }
 }
+
+.about-konstanz { margin: 0.5rem auto 1.75rem; }
+.about-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.35rem 1.5rem;
+  box-shadow: var(--shadow);
+}
+.about-card h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+  color: var(--brand);
+}
+.about-card p {
+  margin: 0 0 0.85rem;
+  color: var(--muted);
+  line-height: 1.55;
+  max-width: 52rem;
+}
+.about-card p:last-child { margin-bottom: 0; }

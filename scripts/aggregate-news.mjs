@@ -3,9 +3,15 @@
  * Clone/pull ChristianHohlfeld/aktuell.digitalisierungsplanung.de and
  * write data/news.json + regenerate the news block in index.html.
  *
- * Categories kept: Makler, Wohnungswirtschaft, Energie, Finanzen.
- * KI / Prozesse / Automatisierung / Regulierung are skipped unless the
- * article's category is already one of the four kept categories.
+ * DigiPlan taxonomy (same order as SITE.categories):
+ *   KI, Prozesse, Wohnungswirtschaft, Makler, Energie, Finanzen, Regulierung
+ * Automatisierung → Prozesse.
+ *
+ * SEO / no-duplicate rule for immobiliekonstanz.de:
+ *   - Do NOT copy DigiPlan article bodies or long summaries.
+ *   - Hub pattern: category, title, date, short unique teaser (≤160 chars,
+ *     original wording on this site), dofollow link to canonical DigiPlan URL.
+ *   - Attribution on every card: „Quelle: Digitalisierungsplanung Aktuell“.
  */
 import { spawnSync } from 'node:child_process';
 import {
@@ -24,9 +30,32 @@ const ROOT = resolve(__dirname, '..');
 const SOURCE_REPO = 'ChristianHohlfeld/aktuell.digitalisierungsplanung.de';
 const SOURCE_DIR = process.env.AKTUELL_SRC || join(ROOT, '.tmp', 'aktuell-src');
 const ARTICLE_BASE = 'https://aktuell.digitalisierungsplanung.de/artikel';
-const KEEP = new Set(['Makler', 'Wohnungswirtschaft', 'Energie', 'Finanzen']);
-const CATEGORY_ORDER = ['Makler', 'Wohnungswirtschaft', 'Energie', 'Finanzen'];
+const SOURCE_HOME = 'https://aktuell.digitalisierungsplanung.de/';
+const SOURCE_LABEL = 'Digitalisierungsplanung Aktuell';
+
+/** DigiPlan SITE.categories — all branch sections on this hub. */
+const CATEGORY_ORDER = [
+  'KI',
+  'Prozesse',
+  'Wohnungswirtschaft',
+  'Makler',
+  'Energie',
+  'Finanzen',
+  'Regulierung'
+];
+const KEEP = new Set(CATEGORY_ORDER);
 const LIMIT_PER_CATEGORY = Number(process.env.NEWS_LIMIT_PER_CATEGORY || 8);
+const TEASER_MAX = 160;
+
+const SECTION_LEADS = {
+  KI: 'KI-Themen aus Digitalisierungsplanung Aktuell — Titel und Link, Volltext bei der Quelle.',
+  Prozesse: 'Prozesse und Automatisierung — Überblick hier, Details auf Digitalisierungsplanung Aktuell.',
+  Wohnungswirtschaft: 'Wohnungswirtschaft und Bestand — Meldungen verlinkt zur Quellseite.',
+  Makler: 'Markt und Vertrieb für Immobilienmakler — Artikel öffnen auf der Quellseite.',
+  Energie: 'Energie und Gebäude — Kurzüberblick mit Link zu Digitalisierungsplanung Aktuell.',
+  Finanzen: 'Finanzierung und Rahmenbedingungen — vollständige Beiträge bei der Quelle.',
+  Regulierung: 'Regeln und Aufsicht — Index mit Link zu Digitalisierungsplanung Aktuell.'
+};
 
 function run(cmd, args, opts = {}) {
   const res = spawnSync(cmd, args, {
@@ -51,7 +80,6 @@ function ensureSource() {
   }
   if (existsSync(SOURCE_DIR)) rmSync(SOURCE_DIR, { recursive: true, force: true });
   console.log(`Cloning ${SOURCE_REPO} → ${SOURCE_DIR}`);
-  // Prefer gh (handles auth for private repos); fall back to git+https.
   const gh = spawnSync('gh', ['repo', 'clone', SOURCE_REPO, SOURCE_DIR, '--', '--depth', '1'], {
     encoding: 'utf8',
     stdio: ['ignore', 'pipe', 'pipe'],
@@ -101,6 +129,25 @@ function esc(s = '') {
     .replace(/"/g, '&quot;');
 }
 
+/**
+ * Short hub-only teaser (original wording). Never reuse DigiPlan summary/body.
+ * Pattern: category cue + title hook + pointer to source.
+ */
+function hubTeaser(title, category) {
+  const cleanTitle = String(title || '').replace(/\s+/g, ' ').trim();
+  const hook = cleanTitle.length > 90 ? `${cleanTitle.slice(0, 87).trim()}…` : cleanTitle;
+  let teaser = `${category}: „${hook}“ — Volltext bei ${SOURCE_LABEL}.`;
+  if (teaser.length > TEASER_MAX) {
+    const budget = TEASER_MAX - ` — Volltext bei ${SOURCE_LABEL}.`.length - `${category}: „“`.length;
+    const shortHook = cleanTitle.slice(0, Math.max(40, budget)).trim() + (cleanTitle.length > budget ? '…' : '');
+    teaser = `${category}: „${shortHook}“ — Volltext bei ${SOURCE_LABEL}.`;
+  }
+  if (teaser.length > TEASER_MAX) {
+    teaser = teaser.slice(0, TEASER_MAX - 1).trim() + '…';
+  }
+  return teaser;
+}
+
 function loadArticles() {
   const contentDir = join(SOURCE_DIR, 'content');
   const files = readdirSync(contentDir).filter((f) => f.endsWith('.md'));
@@ -113,17 +160,20 @@ function loadArticles() {
     if (!KEEP.has(category)) continue;
     const slug = meta.slug || file.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
     const date = meta.published || meta.updated || meta.date || '';
+    const title = meta.title || slug;
+    // Intentionally ignore meta.summary and markdown body (no duplicate content).
     articles.push({
-      title: meta.title || slug,
+      title,
       slug,
       date,
       updated: meta.updated || date,
       category,
-      summary: meta.summary || '',
+      teaser: hubTeaser(title, category),
       author: meta.author || 'Christian Hohlfeld',
-      keywords: meta.keywords || '',
       url: `${ARTICLE_BASE}/${slug}/`,
-      sourceFile: file
+      sourceFile: file,
+      source: SOURCE_LABEL,
+      sourceUrl: SOURCE_HOME
     });
   }
   articles.sort((a, b) => String(b.date).localeCompare(String(a.date)));
@@ -152,12 +202,7 @@ function formatDate(iso) {
 }
 
 function renderSection(category, items) {
-  const lead = {
-    Makler: 'Markt, Regulierung und Vertrieb für Immobilienmakler.',
-    Wohnungswirtschaft: 'Wohnungswirtschaft, Bestand und Verwaltung.',
-    Energie: 'Wärme, Strom und Gebäudeenergie – relevant für Immobilien.',
-    Finanzen: 'Finanzierung und wirtschaftliche Rahmenbedingungen.'
-  }[category] || '';
+  const lead = SECTION_LEADS[category] || '';
 
   const cards = items.length
     ? `<div class="cards">${items
@@ -165,8 +210,9 @@ function renderSection(category, items) {
           (a) => `<article class="card">
   <span class="tag">${esc(a.category)}</span>
   <h3><a href="${esc(a.url)}" rel="noopener noreferrer">${esc(a.title)}</a></h3>
-  <p class="summary">${esc(a.summary)}</p>
+  <p class="summary">${esc(a.teaser)}</p>
   <p class="date">${esc(formatDate(a.date))}</p>
+  <p class="source">Quelle: <a href="${esc(SOURCE_HOME)}" rel="noopener noreferrer">${esc(SOURCE_LABEL)}</a></p>
 </article>`
         )
         .join('\n')}</div>`
@@ -177,6 +223,7 @@ function renderSection(category, items) {
     <div>
       <h2>${esc(category)}</h2>
       <p>${esc(lead)}</p>
+      <p class="source">Quelle: <a href="${esc(SOURCE_HOME)}" rel="noopener noreferrer">${esc(SOURCE_LABEL)}</a></p>
     </div>
   </div>
   ${cards}
@@ -185,10 +232,11 @@ function renderSection(category, items) {
 
 function renderNewsHtml(byCategory, generatedAt) {
   const parts = CATEGORY_ORDER.map((c) => renderSection(c, byCategory[c] || []));
+  const catList = CATEGORY_ORDER.join(', ');
   return `<!-- NEWS:START -->
 <!-- generated: ${esc(generatedAt)} -->
 ${parts.join('\n')}
-<p class="note">Branchenmeldungen von <a href="https://aktuell.digitalisierungsplanung.de/" rel="noopener noreferrer">aktuell.digitalisierungsplanung.de</a> — Auswahl Makler, Wohnungswirtschaft, Energie und Finanzen. Vollständige Artikel öffnen auf der Quellseite.</p>
+<p class="note">Branchenmeldungen als Link-Index von <a href="${esc(SOURCE_HOME)}" rel="noopener noreferrer">${esc(SOURCE_LABEL)}</a> — Kategorien: ${esc(catList)}. Vollständige Artikel nur auf der Quellseite (kein Textübernahme).</p>
 <!-- NEWS:END -->`;
 }
 
@@ -200,11 +248,14 @@ function writeNewsJson(articles, byCategory, generatedAt) {
   const payload = {
     generatedAt,
     source: SOURCE_REPO,
+    sourceLabel: SOURCE_LABEL,
+    sourceHome: SOURCE_HOME,
     articleBase: ARTICLE_BASE,
     categories: CATEGORY_ORDER,
     counts,
     totalMatching: totalKept,
     limitPerCategory: LIMIT_PER_CATEGORY,
+    // Hub payload only — no DigiPlan summary/body fields.
     articles: CATEGORY_ORDER.flatMap((c) => byCategory[c] || [])
   };
   const outDir = join(ROOT, 'data');

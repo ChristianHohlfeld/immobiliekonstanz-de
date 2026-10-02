@@ -3,7 +3,7 @@
 Öffentliche GitHub-Pages-Landing für die Domain **immobiliekonstanz.de**.
 
 - Verweist klar auf den Makler **[Immobilien Eichmann](https://immobilieneichmann.de/)**
-- Aggregiert Branchennews (Makler, Wohnungswirtschaft, Energie, Finanzen) aus dem privaten Repo `ChristianHohlfeld/aktuell.digitalisierungsplanung.de`
+- Aggregiert Branchennews als Link-Index (KI, Prozesse, Wohnungswirtschaft, Makler, Energie, Finanzen, Regulierung) aus dem privaten Repo `ChristianHohlfeld/aktuell.digitalisierungsplanung.de` — nur Titel/Teaser/Link, Volltext bleibt bei DigiPlan
 - Artikel-Links: `https://aktuell.digitalisierungsplanung.de/artikel/<slug>/`
 
 ## Lokal News aktualisieren
@@ -49,4 +49,4 @@ Crawl-Dateien live:
 2. Domain verifizieren (DNS oder Import aus Google Search Console).
 3. Sitemap `https://immobiliekonstanz.de/sitemap.xml` einreichen.
 
-Hinweis: Diese Landing ist eine Referral-Seite mit schema.org **RealEstateAgent** + **LocalBusiness** (NAP aus dem Impressum von Immobilien Eichmann) sowie WebSite/WebPage/BreadcrumbList. Der dofollow-Backlink mit Ankertext „Immobilienmakler Konstanz – Eichmann Immobilien“ zeigt auf `https://immobilieneichmann.de/`.
+Hinweis: Diese Landing verweist faktisch auf das Maklerbüro **Immobilien Eichmann** (Partner) mit schema.org **RealEstateAgent** + **LocalBusiness** (NAP aus dem Impressum) sowie WebSite/WebPage/BreadcrumbList. Der dofollow-Backlink mit Ankertext „Immobilienmakler Konstanz – Eichmann Immobilien“ zeigt auf `https://immobilieneichmann.de/`. Branchennews sind ein Link-Hub zu Digitalisierungsplanung Aktuell (keine Textübernahme).

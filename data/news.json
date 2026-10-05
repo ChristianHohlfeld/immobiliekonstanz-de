@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:30:45.917Z",
+  "generatedAt": "2026-10-05T11:21:44.075Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -32,9 +32,9 @@
     },
     "excludedCategoryTotal": 48,
     "softSpainNotMakler": 1,
-    "softPureTechAi": 20,
+    "softPureTechAi": 21,
     "softFinanzenNotImmo": 27,
-    "softTotal": 48
+    "softTotal": 49
   },
   "totalMatching": 86,
   "limitPerCategory": 8,

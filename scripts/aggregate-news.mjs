@@ -20,6 +20,7 @@
  *   - Attribution on every card: „Quelle: Digitalisierungsplanung Aktuell“.
  */
 import { spawnSync } from 'node:child_process';
+import { updateSitemapLastmod } from './sitemap-lastmod.mjs';
 import {
   existsSync,
   mkdirSync,
@@ -383,7 +384,11 @@ function patchIndex(newsHtml) {
     throw new Error('index.html missing <!-- NEWS:START --> … <!-- NEWS:END --> markers');
   }
   html = html.replace(re, newsHtml);
-  writeFileSync(indexPath, html, 'utf8');
+  const previous = readFileSync(indexPath, 'utf8');
+  if (html !== previous) {
+    writeFileSync(indexPath, html, 'utf8');
+    updateSitemapLastmod(ROOT, new Date().toISOString().slice(0, 10));
+  }
   console.log('Updated news block in index.html');
 }
 

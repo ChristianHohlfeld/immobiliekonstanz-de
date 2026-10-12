@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T10:44:28.246Z",
+  "generatedAt": "2026-10-12T11:50:29.341Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 30,
+    "Wohnungswirtschaft": 31,
     "Makler": 27,
     "Regulierung": 5,
-    "Energie": 24
+    "Energie": 25
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 25,
-      "Prozesse": 9
+      "KI": 26,
+      "Prozesse": 10
     },
-    "excludedCategoryTotal": 52,
+    "excludedCategoryTotal": 54,
     "softSpainNotMakler": 1,
     "softPureTechAi": 22,
-    "softFinanzenNotImmo": 27,
-    "softTotal": 50
+    "softFinanzenNotImmo": 28,
+    "softTotal": 51
   },
-  "totalMatching": 86,
+  "totalMatching": 88,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "EH55-Plus: Bund stockt Neubauförderung bis Jahresende auf",
+      "slug": "eh55-plus-foerderung-aufgestockt",
+      "date": "2026-10-12",
+      "updated": "2026-10-12",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „EH55-Plus: Bund stockt Neubauförderung bis Jahresende auf“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eh55-plus-foerderung-aufgestockt/",
+      "sourceFile": "2026-10-09-eh55-plus-foerderung-aufgestockt.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "BauGB-Upgrade: Digitale Bauleitplanung kommt – Kapazität bleibt der Engpass",
       "slug": "baugb-upgrade-digitale-bauleitplanung",
       "date": "2026-09-28",
@@ -235,15 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "760.700 genehmigte Wohnungen noch nicht fertig: Der Bauüberhang bleibt riesig",
-      "slug": "bauueberhang-760700-wohnungen",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „760.700 genehmigte Wohnungen noch nicht fertig: Der Bauüberhang bleibt riesig“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Deutschland gibt bis zu 15 Millionen Barrel aus der Ölreserve frei",
+      "slug": "deutschland-oelreserve-15-millionen-barrel",
+      "date": "2026-10-12",
+      "updated": "2026-10-12",
+      "category": "Energie",
+      "teaser": "Energie: „Deutschland gibt bis zu 15 Millionen Barrel aus der Ölreserve frei“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bauueberhang-760700-wohnungen/",
-      "sourceFile": "2026-05-22-bauueberhang-760700-wohnungen.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/deutschland-oelreserve-15-millionen-barrel/",
+      "sourceFile": "2026-10-09-deutschland-oelreserve-15-millionen-barrel.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -335,19 +348,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/waermeplanung-frist-grossstaedte/",
       "sourceFile": "2026-06-30-waermeplanung-frist-grossstaedte.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "BEG seit 21. Juli neu: Gebäudeförderung wird degressiver und stärker differenziert",
-      "slug": "beg-reform-gebaeudefoerderung-2026",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Energie",
-      "teaser": "Energie: „BEG seit 21. Juli neu: Gebäudeförderung wird degressiver und stärker differenziert“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/beg-reform-gebaeudefoerderung-2026/",
-      "sourceFile": "2026-07-21-beg-reform-gebaeudefoerderung-2026.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

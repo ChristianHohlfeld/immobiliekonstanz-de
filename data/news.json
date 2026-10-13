@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:50:29.341Z",
+  "generatedAt": "2026-10-13T11:38:37.647Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,26 +19,39 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 31,
-    "Makler": 27,
+    "Wohnungswirtschaft": 32,
+    "Makler": 28,
     "Regulierung": 5,
     "Energie": 25
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 26,
-      "Prozesse": 10
+      "KI": 27,
+      "Prozesse": 11
     },
-    "excludedCategoryTotal": 54,
+    "excludedCategoryTotal": 56,
     "softSpainNotMakler": 1,
-    "softPureTechAi": 22,
+    "softPureTechAi": 24,
     "softFinanzenNotImmo": 28,
-    "softTotal": 51
+    "softTotal": 53
   },
-  "totalMatching": 88,
+  "totalMatching": 90,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Immobilienmarkt Q3: Preise steigen langsamer, mehr Suchende wollen mieten",
+      "slug": "immowelt-q3-kaufpreise-mietanfragen",
+      "date": "2026-10-12",
+      "updated": "2026-10-12",
+      "category": "Makler",
+      "teaser": "Makler: „Immobilienmarkt Q3: Preise steigen langsamer, mehr Suchende wollen mieten“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immowelt-q3-kaufpreise-mietanfragen/",
+      "sourceFile": "2026-09-30-immowelt-q3-kaufpreise-mietanfragen.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Häuserpreisindex Q2: Der deutsche Immobilienmarkt ist kein Einheitsmarkt",
       "slug": "haeuserpreisindex-q2-2026-makler",
@@ -131,15 +144,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Wohnimmobilienpreise steigen wieder – aber regional sehr unterschiedlich",
-      "slug": "deutschland-wohnimmobilienpreise-regionale-spreizung",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Makler",
-      "teaser": "Makler: „Wohnimmobilienpreise steigen wieder – aber regional sehr unterschiedlich“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "TKG-Novelle: Bundestag berät Glasfaser-Vollausbau in Wohngebäuden",
+      "slug": "tkg-novelle-glasfaser-vollausbau-gebaeude",
+      "date": "2026-10-13",
+      "updated": "2026-10-13",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „TKG-Novelle: Bundestag berät Glasfaser-Vollausbau in Wohngebäuden“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/deutschland-wohnimmobilienpreise-regionale-spreizung/",
-      "sourceFile": "2026-06-25-deutschland-wohnimmobilienpreise-regionale-spreizung.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/tkg-novelle-glasfaser-vollausbau-gebaeude/",
+      "sourceFile": "2026-10-13-tkg-novelle-glasfaser-vollausbau-gebaeude.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -231,19 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/ueberbelegung-wohnungen-2025/",
       "sourceFile": "2026-05-11-ueberbelegung-wohnungen-2025.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "11,2 Prozent der Bevölkerung durch Wohnkosten überbelastet",
-      "slug": "wohnkosten-ueberbelastung-2025",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „11,2 Prozent der Bevölkerung durch Wohnkosten überbelastet“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/wohnkosten-ueberbelastung-2025/",
-      "sourceFile": "2026-05-15-wohnkosten-ueberbelastung-2025.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

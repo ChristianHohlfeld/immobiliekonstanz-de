@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:25:34.153Z",
+  "generatedAt": "2026-10-15T09:04:02.469Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -15,28 +15,28 @@
     "Makler": 8,
     "Wohnungswirtschaft": 8,
     "Energie": 8,
-    "Regulierung": 5,
+    "Regulierung": 6,
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 32,
     "Makler": 28,
-    "Regulierung": 5,
-    "Energie": 25
+    "Regulierung": 6,
+    "Energie": 26
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 27,
+      "KI": 30,
       "Prozesse": 11
     },
-    "excludedCategoryTotal": 56,
+    "excludedCategoryTotal": 59,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 28,
-    "softTotal": 53
+    "softFinanzenNotImmo": 29,
+    "softTotal": 54
   },
-  "totalMatching": 90,
+  "totalMatching": 92,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bund und Länder planen Mezzanine-Kapital für Strom- und Wärmenetze",
+      "slug": "netzfinanzierung-stadtwerke-mezzanine",
+      "date": "2026-10-15",
+      "updated": "2026-10-15",
+      "category": "Energie",
+      "teaser": "Energie: „Bund und Länder planen Mezzanine-Kapital für Strom- und Wärmenetze“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/netzfinanzierung-stadtwerke-mezzanine/",
+      "sourceFile": "2026-10-15-netzfinanzierung-stadtwerke-mezzanine.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Deutschland gibt bis zu 15 Millionen Barrel aus der Ölreserve frei",
       "slug": "deutschland-oelreserve-15-millionen-barrel",
       "date": "2026-10-12",
@@ -339,15 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Kommunale Wärmeplanung: Für Großstädte ist die erste gesetzliche Frist abgelaufen",
-      "slug": "waermeplanung-frist-grossstaedte",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Energie",
-      "teaser": "Energie: „Kommunale Wärmeplanung: Für Großstädte ist die erste gesetzliche Frist abgelaufen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Bundeskabinett plant Social-Media-Altersgrenze und EUDI-Altersnachweis",
+      "slug": "jugendmedienschutz-social-media-altersgrenze",
+      "date": "2026-10-15",
+      "updated": "2026-10-15",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Bundeskabinett plant Social-Media-Altersgrenze und EUDI-Altersnachweis“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/waermeplanung-frist-grossstaedte/",
-      "sourceFile": "2026-06-30-waermeplanung-frist-grossstaedte.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/jugendmedienschutz-social-media-altersgrenze/",
+      "sourceFile": "2026-10-15-jugendmedienschutz-social-media-altersgrenze.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:56:17.765Z",
+  "generatedAt": "2026-10-17T08:28:11.446Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -21,22 +21,22 @@
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 36,
     "Makler": 31,
-    "Regulierung": 10,
+    "Regulierung": 11,
     "Energie": 32
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
       "KI": 37,
-      "Prozesse": 14
+      "Prozesse": 15
     },
-    "excludedCategoryTotal": 69,
+    "excludedCategoryTotal": 70,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 33,
-    "softTotal": 58
+    "softFinanzenNotImmo": 34,
+    "softTotal": 59
   },
-  "totalMatching": 109,
+  "totalMatching": 110,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -352,6 +352,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Britische CMA prüft Sonderaufsicht für Microsofts Bürosoftware",
+      "slug": "cma-microsoft-business-software-sms",
+      "date": "2026-10-17",
+      "updated": "2026-10-17",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Britische CMA prüft Sonderaufsicht für Microsofts Bürosoftware“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/cma-microsoft-business-software-sms/",
+      "sourceFile": "2026-10-17-cma-microsoft-business-software-sms.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Digitale-Identitätengesetz: Bundestag schafft Rechtsgrundlage für d-you",
       "slug": "digitale-identitaetengesetz-bundestag-d-you",
       "date": "2026-10-16",
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/esrs-2026-vereinfachte-nachhaltigkeitsstandards/",
       "sourceFile": "2026-07-03-esrs-2026-vereinfachte-nachhaltigkeitsstandards.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Gigabit-Grundbuch: Neue Verordnung soll Infrastrukturdaten einheitlicher machen",
-      "slug": "gigabit-grundbuch-verordnung",
-      "date": "2026-09-20",
-      "updated": "2026-09-20",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Gigabit-Grundbuch: Neue Verordnung soll Infrastrukturdaten einheitlicher machen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gigabit-grundbuch-verordnung/",
-      "sourceFile": "2026-09-14-gigabit-grundbuch-verordnung.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

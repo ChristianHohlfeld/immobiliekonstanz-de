@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:28:11.446Z",
+  "generatedAt": "2026-10-18T08:46:32.319Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,26 +19,39 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 36,
-    "Makler": 31,
-    "Regulierung": 11,
+    "Wohnungswirtschaft": 37,
+    "Makler": 32,
+    "Regulierung": 12,
     "Energie": 32
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 37,
+      "KI": 38,
       "Prozesse": 15
     },
-    "excludedCategoryTotal": 70,
+    "excludedCategoryTotal": 71,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 34,
-    "softTotal": 59
+    "softFinanzenNotImmo": 35,
+    "softTotal": 60
   },
-  "totalMatching": 110,
+  "totalMatching": 113,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "RE/MAX-Umfrage: Vermarktungszeiten am Immobilienmarkt werden länger",
+      "slug": "remax-vermarktungszeiten-immobilienmarkt",
+      "date": "2026-10-18",
+      "updated": "2026-10-18",
+      "category": "Makler",
+      "teaser": "Makler: „RE/MAX-Umfrage: Vermarktungszeiten am Immobilienmarkt werden länger“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/remax-vermarktungszeiten-immobilienmarkt/",
+      "sourceFile": "2026-10-18-remax-vermarktungszeiten-immobilienmarkt.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Europace: Bestandspreise sinken im September – Neubau steigt auf Rekord",
       "slug": "europace-september-2026-bestand-abschluss",
@@ -131,15 +144,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Spanien: Hypotheken ausländischer Käufer erreichen 2025 Rekordniveau",
-      "slug": "spanien-auslaendische-hypotheken-rekord-2025",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Makler",
-      "teaser": "Makler: „Spanien: Hypotheken ausländischer Käufer erreichen 2025 Rekordniveau“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "ifo: Zuversicht im Wohnungsbau kippt nach August-Erholung wieder",
+      "slug": "ifo-wohnungsbau-stimmung-rueckschlag",
+      "date": "2026-10-18",
+      "updated": "2026-10-18",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „ifo: Zuversicht im Wohnungsbau kippt nach August-Erholung wieder“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/spanien-auslaendische-hypotheken-rekord-2025/",
-      "sourceFile": "2026-04-07-spanien-auslaendische-hypotheken-rekord-2025.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ifo-wohnungsbau-stimmung-rueckschlag/",
+      "sourceFile": "2026-10-18-ifo-wohnungsbau-stimmung-rueckschlag.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -231,19 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/baugb-upgrade-digitale-bauleitplanung/",
       "sourceFile": "2026-09-23-baugb-upgrade-digitale-bauleitplanung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bauaufträge brechen im Juli ein – der Dreimonatstrend bleibt positiv",
-      "slug": "bauauftragseingang-juli-2026",
-      "date": "2026-09-28",
-      "updated": "2026-09-28",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Bauaufträge brechen im Juli ein – der Dreimonatstrend bleibt positiv“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bauauftragseingang-juli-2026/",
-      "sourceFile": "2026-09-25-bauauftragseingang-juli-2026.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -352,6 +352,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bundestag erweitert Online-Notariat im Gesellschaftsrecht",
+      "slug": "bundestag-online-notariat-gesellschaftsrecht",
+      "date": "2026-10-18",
+      "updated": "2026-10-18",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Bundestag erweitert Online-Notariat im Gesellschaftsrecht“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-online-notariat-gesellschaftsrecht/",
+      "sourceFile": "2026-10-18-bundestag-online-notariat-gesellschaftsrecht.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Britische CMA prüft Sonderaufsicht für Microsofts Bürosoftware",
       "slug": "cma-microsoft-business-software-sms",
       "date": "2026-10-17",
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/e-rechnung-b2b-uebergangsfrist-2026/",
       "sourceFile": "2026-03-23-e-rechnung-b2b-uebergangsfrist-2026.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "ESRS 2026: EU beschließt vereinfachte Nachhaltigkeitsstandards",
-      "slug": "esrs-2026-vereinfachte-nachhaltigkeitsstandards",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „ESRS 2026: EU beschließt vereinfachte Nachhaltigkeitsstandards“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/esrs-2026-vereinfachte-nachhaltigkeitsstandards/",
-      "sourceFile": "2026-07-03-esrs-2026-vereinfachte-nachhaltigkeitsstandards.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

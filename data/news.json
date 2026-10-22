@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:20:04.188Z",
+  "generatedAt": "2026-10-22T09:19:31.985Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 37,
+    "Wohnungswirtschaft": 38,
     "Makler": 32,
-    "Regulierung": 12,
-    "Energie": 33
+    "Regulierung": 15,
+    "Energie": 35
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 40,
-      "Prozesse": 15
+      "KI": 42,
+      "Prozesse": 18
     },
-    "excludedCategoryTotal": 73,
+    "excludedCategoryTotal": 78,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 36,
-    "softTotal": 61
+    "softFinanzenNotImmo": 37,
+    "softTotal": 62
   },
-  "totalMatching": 114,
+  "totalMatching": 120,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Elementarschutz soll Standard in der Wohngebäudeversicherung werden",
+      "slug": "elementarschutz-wohngebaeude-diskussionspapier",
+      "date": "2026-10-22",
+      "updated": "2026-10-22",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Elementarschutz soll Standard in der Wohngebäudeversicherung werden“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/elementarschutz-wohngebaeude-diskussionspapier/",
+      "sourceFile": "2026-10-22-elementarschutz-wohngebaeude-diskussionspapier.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "ifo: Zuversicht im Wohnungsbau kippt nach August-Erholung wieder",
       "slug": "ifo-wohnungsbau-stimmung-rueckschlag",
       "date": "2026-10-18",
@@ -235,15 +248,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "BauGB-Upgrade: Digitale Bauleitplanung kommt – Kapazität bleibt der Engpass",
-      "slug": "baugb-upgrade-digitale-bauleitplanung",
-      "date": "2026-09-28",
-      "updated": "2026-09-28",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „BauGB-Upgrade: Digitale Bauleitplanung kommt – Kapazität bleibt der Engpass“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Netzentgelte 2027: Kleine Durchschnittsanstiege verdecken große regionale Unterschiede",
+      "slug": "netzentgelte-2027-regionale-unterschiede",
+      "date": "2026-10-22",
+      "updated": "2026-10-22",
+      "category": "Energie",
+      "teaser": "Energie: „Netzentgelte 2027: Kleine Durchschnittsanstiege verdecken große regionale Unterschiede“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/baugb-upgrade-digitale-bauleitplanung/",
-      "sourceFile": "2026-09-23-baugb-upgrade-digitale-bauleitplanung.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/netzentgelte-2027-regionale-unterschiede/",
+      "sourceFile": "2026-10-22-netzentgelte-2027-regionale-unterschiede.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Bundesnetzagentur prüft kurzfristiges Ende des Stromanbieters grüüün",
+      "slug": "bundesnetzagentur-aufsicht-grueueuen",
+      "date": "2026-10-21",
+      "updated": "2026-10-21",
+      "category": "Energie",
+      "teaser": "Energie: „Bundesnetzagentur prüft kurzfristiges Ende des Stromanbieters grüüün“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundesnetzagentur-aufsicht-grueueuen/",
+      "sourceFile": "2026-10-21-bundesnetzagentur-aufsicht-grueueuen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -326,28 +352,41 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Tesla zeigt fliegenden Roadster-Prototyp – Serienproduktion erst 2028",
-      "slug": "tesla-roadster-2026-flugmanoeuvre-serie-2028",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „Tesla zeigt fliegenden Roadster-Prototyp – Serienproduktion erst 2028“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Google-Cloud-Ausfall wird zum ersten großen Test der europäischen DORA-Aufsicht",
+      "slug": "google-cloud-ausfall-dora-aufsicht",
+      "date": "2026-10-22",
+      "updated": "2026-10-22",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Google-Cloud-Ausfall wird zum ersten großen Test der europäischen DORA-Aufsicht“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/tesla-roadster-2026-flugmanoeuvre-serie-2028/",
-      "sourceFile": "2026-10-16-tesla-roadster-2026-flugmanoeuvre-serie-2028.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/google-cloud-ausfall-dora-aufsicht/",
+      "sourceFile": "2026-10-22-google-cloud-ausfall-dora-aufsicht.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Bund und Länder planen Mezzanine-Kapital für Strom- und Wärmenetze",
-      "slug": "netzfinanzierung-stadtwerke-mezzanine",
-      "date": "2026-10-15",
-      "updated": "2026-10-15",
-      "category": "Energie",
-      "teaser": "Energie: „Bund und Länder planen Mezzanine-Kapital für Strom- und Wärmenetze“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Datenschutzprozess: Meta soll New Mexico 25 Milliarden Dollar zahlen",
+      "slug": "meta-new-mexico-datenschutz-25-milliarden",
+      "date": "2026-10-22",
+      "updated": "2026-10-22",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Datenschutzprozess: Meta soll New Mexico 25 Milliarden Dollar zahlen“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/netzfinanzierung-stadtwerke-mezzanine/",
-      "sourceFile": "2026-10-15-netzfinanzierung-stadtwerke-mezzanine.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/meta-new-mexico-datenschutz-25-milliarden/",
+      "sourceFile": "2026-10-22-meta-new-mexico-datenschutz-25-milliarden.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Neue EU-Arktisstrategie hält am Fossilausstieg fest, verzichtet aber auf früheres Verbotsziel",
+      "slug": "eu-arktisstrategie-fossile-rohstoffe",
+      "date": "2026-10-21",
+      "updated": "2026-10-21",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Neue EU-Arktisstrategie hält am Fossilausstieg fest, verzichtet aber auf früheres Verbotsziel“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-arktisstrategie-fossile-rohstoffe/",
+      "sourceFile": "2026-10-21-eu-arktisstrategie-fossile-rohstoffe.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -413,45 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-sanktionen-russland-1569-neue-listungen/",
       "sourceFile": "2026-10-16-eu-sanktionen-russland-1569-neue-listungen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "TikTok im Digital Markets Act: EU-Generalanwalt empfiehlt Klageabweisung",
-      "slug": "tiktok-dma-eugh-generalanwalt-einstufung",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „TikTok im Digital Markets Act: EU-Generalanwalt empfiehlt Klageabweisung“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/tiktok-dma-eugh-generalanwalt-einstufung/",
-      "sourceFile": "2026-10-16-tiktok-dma-eugh-generalanwalt-einstufung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundeskabinett plant Social-Media-Altersgrenze und EUDI-Altersnachweis",
-      "slug": "jugendmedienschutz-social-media-altersgrenze",
-      "date": "2026-10-15",
-      "updated": "2026-10-15",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Bundeskabinett plant Social-Media-Altersgrenze und EUDI-Altersnachweis“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/jugendmedienschutz-social-media-altersgrenze/",
-      "sourceFile": "2026-10-15-jugendmedienschutz-social-media-altersgrenze.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "E-Rechnung: Für viele Unternehmen endet die allgemeine Übergangsfrist Ende 2026",
-      "slug": "e-rechnung-b2b-uebergangsfrist-2026",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „E-Rechnung: Für viele Unternehmen endet die allgemeine Übergangsfrist Ende 2026“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/e-rechnung-b2b-uebergangsfrist-2026/",
-      "sourceFile": "2026-03-23-e-rechnung-b2b-uebergangsfrist-2026.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

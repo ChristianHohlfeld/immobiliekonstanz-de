@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:19:31.985Z",
+  "generatedAt": "2026-10-23T09:14:57.868Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 38,
+    "Wohnungswirtschaft": 39,
     "Makler": 32,
-    "Regulierung": 15,
-    "Energie": 35
+    "Regulierung": 16,
+    "Energie": 36
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 42,
-      "Prozesse": 18
+      "KI": 43,
+      "Prozesse": 19
     },
-    "excludedCategoryTotal": 78,
+    "excludedCategoryTotal": 80,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 37,
-    "softTotal": 62
+    "softFinanzenNotImmo": 39,
+    "softTotal": 64
   },
-  "totalMatching": 120,
+  "totalMatching": 123,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Wohnungsmarkt im dritten Quartal: Mieten steigen, Investitionen bleiben zinssensibel",
+      "slug": "cbre-wohnmarkt-q3-2026-mietanstieg-investitionen",
+      "date": "2026-10-23",
+      "updated": "2026-10-23",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Wohnungsmarkt im dritten Quartal: Mieten steigen, Investitionen bleiben zinssensibel“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/cbre-wohnmarkt-q3-2026-mietanstieg-investitionen/",
+      "sourceFile": "2026-10-23-cbre-wohnmarkt-q3-2026-mietanstieg-investitionen.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Elementarschutz soll Standard in der Wohngebäudeversicherung werden",
       "slug": "elementarschutz-wohngebaeude-diskussionspapier",
       "date": "2026-10-22",
@@ -235,15 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "EH55-Plus: Bund stockt Neubauförderung bis Jahresende auf",
-      "slug": "eh55-plus-foerderung-aufgestockt",
-      "date": "2026-10-12",
-      "updated": "2026-10-12",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „EH55-Plus: Bund stockt Neubauförderung bis Jahresende auf“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "EU-Emissionshandel: Kompromiss lässt größeren Vorrat an CO₂-Zertifikaten zu",
+      "slug": "eu-ets-marktstabilitaetsreserve-700-millionen",
+      "date": "2026-10-23",
+      "updated": "2026-10-23",
+      "category": "Energie",
+      "teaser": "Energie: „EU-Emissionshandel: Kompromiss lässt größeren Vorrat an CO₂-Zertifikaten zu“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eh55-plus-foerderung-aufgestockt/",
-      "sourceFile": "2026-10-09-eh55-plus-foerderung-aufgestockt.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-ets-marktstabilitaetsreserve-700-millionen/",
+      "sourceFile": "2026-10-23-eu-ets-marktstabilitaetsreserve-700-millionen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -339,15 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "IEA beschleunigt Ölreservefreigabe: über 20 Millionen Barrel Diesel",
-      "slug": "iea-oelreserven-diesel-schneller-freigeben",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „IEA beschleunigt Ölreservefreigabe: über 20 Millionen Barrel Diesel“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "EU-Rat einigt sich auf Digital-Omnibus-Position zu Cookies, Datenschutz und Cybermeldungen",
+      "slug": "eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen",
+      "date": "2026-10-23",
+      "updated": "2026-10-23",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „EU-Rat einigt sich auf Digital-Omnibus-Position zu Cookies, Datenschutz und Cybermeldungen“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/iea-oelreserven-diesel-schneller-freigeben/",
-      "sourceFile": "2026-10-16-iea-oelreserven-diesel-schneller-freigeben.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen/",
+      "sourceFile": "2026-10-23-eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-methan-import-fristverschiebung-vorschlag-2028/",
       "sourceFile": "2026-10-16-eu-methan-import-fristverschiebung-vorschlag-2028.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "EU erweitert Russland-Sanktionslisten um 1569 Personen und Unternehmen",
-      "slug": "eu-sanktionen-russland-1569-neue-listungen",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „EU erweitert Russland-Sanktionslisten um 1569 Personen und Unternehmen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-sanktionen-russland-1569-neue-listungen/",
-      "sourceFile": "2026-10-16-eu-sanktionen-russland-1569-neue-listungen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

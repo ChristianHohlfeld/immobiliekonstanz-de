@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:14:57.868Z",
+  "generatedAt": "2026-10-24T08:48:13.144Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 39,
+    "Wohnungswirtschaft": 40,
     "Makler": 32,
-    "Regulierung": 16,
-    "Energie": 36
+    "Regulierung": 17,
+    "Energie": 38
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 43,
-      "Prozesse": 19
+      "KI": 44,
+      "Prozesse": 20
     },
-    "excludedCategoryTotal": 80,
+    "excludedCategoryTotal": 82,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 39,
-    "softTotal": 64
+    "softFinanzenNotImmo": 40,
+    "softTotal": 65
   },
-  "totalMatching": 123,
+  "totalMatching": 127,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bauaufträge im August: Rekordplus durch Großaufträge, Hochbau bleibt schwach",
+      "slug": "bauauftragseingang-august-2026-grossauftraege",
+      "date": "2026-10-23",
+      "updated": "2026-10-23",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Bauaufträge im August: Rekordplus durch Großaufträge, Hochbau bleibt schwach“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bauauftragseingang-august-2026-grossauftraege/",
+      "sourceFile": "2026-10-23-bauauftragseingang-august-2026-grossauftraege.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Wohnungsmarkt im dritten Quartal: Mieten steigen, Investitionen bleiben zinssensibel",
       "slug": "cbre-wohnmarkt-q3-2026-mietanstieg-investitionen",
       "date": "2026-10-23",
@@ -235,15 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "TKG-Novelle: Bundestag berät Glasfaser-Vollausbau in Wohngebäuden",
-      "slug": "tkg-novelle-glasfaser-vollausbau-gebaeude",
-      "date": "2026-10-13",
-      "updated": "2026-10-13",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „TKG-Novelle: Bundestag berät Glasfaser-Vollausbau in Wohngebäuden“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Wintergas 2027: THE vergibt Regelenergie für knapp 245 Millionen Euro",
+      "slug": "wintergas-the-ausschreibungen-2027",
+      "date": "2026-10-24",
+      "updated": "2026-10-24",
+      "category": "Energie",
+      "teaser": "Energie: „Wintergas 2027: THE vergibt Regelenergie für knapp 245 Millionen Euro“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/tkg-novelle-glasfaser-vollausbau-gebaeude/",
-      "sourceFile": "2026-10-13-tkg-novelle-glasfaser-vollausbau-gebaeude.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/wintergas-the-ausschreibungen-2027/",
+      "sourceFile": "2026-10-24-wintergas-the-ausschreibungen-2027.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -257,6 +270,19 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-ets-marktstabilitaetsreserve-700-millionen/",
       "sourceFile": "2026-10-23-eu-ets-marktstabilitaetsreserve-700-millionen.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "EU-Parlament will Methanpflichten für Energieimporte bis 2031 aufschieben",
+      "slug": "eu-parlament-methanregeln-aufschub-2031",
+      "date": "2026-10-23",
+      "updated": "2026-10-23",
+      "category": "Energie",
+      "teaser": "Energie: „EU-Parlament will Methanpflichten für Energieimporte bis 2031 aufschieben“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-parlament-methanregeln-aufschub-2031/",
+      "sourceFile": "2026-10-23-eu-parlament-methanregeln-aufschub-2031.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -326,28 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "EU-Methanverordnung: neue Meldeformulare bis 6. November kommentierbar",
-      "slug": "eu-methan-meldeformulare-frist-november",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „EU-Methanverordnung: neue Meldeformulare bis 6. November kommentierbar“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "EU Inc: Rat legt Position für digitales EU-Gesellschaftsrecht fest",
+      "slug": "eu-inc-ratsposition-gesellschaftsrecht",
+      "date": "2026-10-24",
+      "updated": "2026-10-24",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „EU Inc: Rat legt Position für digitales EU-Gesellschaftsrecht fest“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-methan-meldeformulare-frist-november/",
-      "sourceFile": "2026-10-16-eu-methan-meldeformulare-frist-november.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundesnetzagentur: Gasversorgung trotz niedriger Speicherstände stabil",
-      "slug": "gasversorgung-deutschland-oktober-2026-speicher-lng",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „Bundesnetzagentur: Gasversorgung trotz niedriger Speicherstände stabil“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gasversorgung-deutschland-oktober-2026-speicher-lng/",
-      "sourceFile": "2026-10-16-gasversorgung-deutschland-oktober-2026-speicher-lng.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-inc-ratsposition-gesellschaftsrecht/",
+      "sourceFile": "2026-10-24-eu-inc-ratsposition-gesellschaftsrecht.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/digitale-identitaetengesetz-bundestag-d-you/",
       "sourceFile": "2026-10-16-digitale-identitaetengesetz-bundestag-d-you.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "EU-Kommission schlägt Aufschub für Methanpflichten bei Energieimporten vor",
-      "slug": "eu-methan-import-fristverschiebung-vorschlag-2028",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „EU-Kommission schlägt Aufschub für Methanpflichten bei Energieimporten vor“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-methan-import-fristverschiebung-vorschlag-2028/",
-      "sourceFile": "2026-10-16-eu-methan-import-fristverschiebung-vorschlag-2028.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

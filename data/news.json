@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:48:13.144Z",
+  "generatedAt": "2026-10-25T09:04:16.574Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,7 +19,7 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 40,
+    "Wohnungswirtschaft": 41,
     "Makler": 32,
     "Regulierung": 17,
     "Energie": 38
@@ -28,15 +28,15 @@
     "byExcludedCategory": {
       "Automatisierung": 18,
       "KI": 44,
-      "Prozesse": 20
+      "Prozesse": 21
     },
-    "excludedCategoryTotal": 82,
+    "excludedCategoryTotal": 83,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
     "softFinanzenNotImmo": 40,
     "softTotal": 65
   },
-  "totalMatching": 127,
+  "totalMatching": 128,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Berlin plant Vergesellschaftung: Bis zu 160.000 Wohnungen im Fokus",
+      "slug": "berlin-vergesellschaftung-wohnungskonzerne-2028",
+      "date": "2026-10-25",
+      "updated": "2026-10-25",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Berlin plant Vergesellschaftung: Bis zu 160.000 Wohnungen im Fokus“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/berlin-vergesellschaftung-wohnungskonzerne-2028/",
+      "sourceFile": "2026-10-25-berlin-vergesellschaftung-wohnungskonzerne-2028.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Bauaufträge im August: Rekordplus durch Großaufträge, Hochbau bleibt schwach",
       "slug": "bauauftragseingang-august-2026-grossauftraege",
       "date": "2026-10-23",
@@ -231,19 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/greix-angebotsmieten-q3-2026/",
       "sourceFile": "2026-10-16-greix-angebotsmieten-q3-2026.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Dr. Klein Wowi Digital erreicht 801.000 Verwaltungseinheiten – Finanzierungsvolumen rückläufig",
-      "slug": "hypoport-wowi-digital-801000-einheiten",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Dr. Klein Wowi Digital erreicht 801.000 Verwaltungseinheiten – Finanzierungsvolumen rückläufig“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hypoport-wowi-digital-801000-einheiten/",
-      "sourceFile": "2026-10-16-hypoport-wowi-digital-801000-einheiten.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:04:16.574Z",
+  "generatedAt": "2026-10-26T09:59:27.388Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -22,7 +22,7 @@
     "Wohnungswirtschaft": 41,
     "Makler": 32,
     "Regulierung": 17,
-    "Energie": 38
+    "Energie": 39
   },
   "dropped": {
     "byExcludedCategory": {
@@ -36,7 +36,7 @@
     "softFinanzenNotImmo": 40,
     "softTotal": 65
   },
-  "totalMatching": 128,
+  "totalMatching": 129,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Strommarkt Q3 2026: Rekord-Solar trifft auf 52 Prozent höheren Großhandelspreis",
+      "slug": "strommarkt-q3-2026-pv-nettoexport-preise",
+      "date": "2026-10-25",
+      "updated": "2026-10-25",
+      "category": "Energie",
+      "teaser": "Energie: „Strommarkt Q3 2026: Rekord-Solar trifft auf 52 Prozent höheren Großhandelspreis“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/strommarkt-q3-2026-pv-nettoexport-preise/",
+      "sourceFile": "2026-10-25-strommarkt-q3-2026-pv-nettoexport-preise.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Wintergas 2027: THE vergibt Regelenergie für knapp 245 Millionen Euro",
       "slug": "wintergas-the-ausschreibungen-2027",
       "date": "2026-10-24",
@@ -335,19 +348,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/batteriespeicher-vier-stunden-gaskraftwerke-43-maerkte/",
       "sourceFile": "2026-10-16-batteriespeicher-vier-stunden-gaskraftwerke-43-maerkte.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "CO₂-Preis 2027: Bundestag beschließt Korridor von 55 bis 65 Euro",
-      "slug": "co2-preis-2027-bundestag-beschluss",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „CO₂-Preis 2027: Bundestag beschließt Korridor von 55 bis 65 Euro“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/co2-preis-2027-bundestag-beschluss/",
-      "sourceFile": "2026-10-16-co2-preis-2027-bundestag-beschluss.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

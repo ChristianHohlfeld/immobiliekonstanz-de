@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:59:27.388Z",
+  "generatedAt": "2026-10-27T09:44:12.546Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,7 +19,7 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 41,
+    "Wohnungswirtschaft": 42,
     "Makler": 32,
     "Regulierung": 17,
     "Energie": 39
@@ -27,16 +27,16 @@
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 44,
+      "KI": 46,
       "Prozesse": 21
     },
-    "excludedCategoryTotal": 83,
+    "excludedCategoryTotal": 85,
     "softSpainNotMakler": 1,
     "softPureTechAi": 24,
-    "softFinanzenNotImmo": 40,
-    "softTotal": 65
+    "softFinanzenNotImmo": 41,
+    "softTotal": 66
   },
-  "totalMatching": 129,
+  "totalMatching": 130,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Gebäudetyp E: Neuer Entwurf lässt laut GdW Mietrechtsrisiko offen",
+      "slug": "gebaeudetyp-e-mietrecht-referentenentwurf-gdw",
+      "date": "2026-10-26",
+      "updated": "2026-10-26",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Gebäudetyp E: Neuer Entwurf lässt laut GdW Mietrechtsrisiko offen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gebaeudetyp-e-mietrecht-referentenentwurf-gdw/",
+      "sourceFile": "2026-10-26-gebaeudetyp-e-mietrecht-referentenentwurf-gdw.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Berlin plant Vergesellschaftung: Bis zu 160.000 Wohnungen im Fokus",
       "slug": "berlin-vergesellschaftung-wohnungskonzerne-2028",
       "date": "2026-10-25",
@@ -231,19 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/baupreise-august-2026-55-prozent-neubau/",
       "sourceFile": "2026-10-16-baupreise-august-2026-55-prozent-neubau.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "GREIX: Angebotsmieten steigen im dritten Quartal wieder schneller",
-      "slug": "greix-angebotsmieten-q3-2026",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „GREIX: Angebotsmieten steigen im dritten Quartal wieder schneller“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/greix-angebotsmieten-q3-2026/",
-      "sourceFile": "2026-10-16-greix-angebotsmieten-q3-2026.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:44:12.546Z",
+  "generatedAt": "2026-10-28T10:29:35.039Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -28,13 +28,13 @@
     "byExcludedCategory": {
       "Automatisierung": 18,
       "KI": 46,
-      "Prozesse": 21
+      "Prozesse": 22
     },
-    "excludedCategoryTotal": 85,
+    "excludedCategoryTotal": 86,
     "softSpainNotMakler": 1,
-    "softPureTechAi": 24,
-    "softFinanzenNotImmo": 41,
-    "softTotal": 66
+    "softPureTechAi": 26,
+    "softFinanzenNotImmo": 43,
+    "softTotal": 70
   },
   "totalMatching": 130,
   "limitPerCategory": 8,

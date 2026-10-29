@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:29:35.039Z",
+  "generatedAt": "2026-10-29T10:49:45.218Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -20,25 +20,38 @@
   },
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 42,
-    "Makler": 32,
+    "Makler": 33,
     "Regulierung": 17,
-    "Energie": 39
+    "Energie": 42
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 46,
-      "Prozesse": 22
+      "KI": 48,
+      "Prozesse": 24
     },
-    "excludedCategoryTotal": 86,
+    "excludedCategoryTotal": 90,
     "softSpainNotMakler": 1,
     "softPureTechAi": 26,
-    "softFinanzenNotImmo": 43,
-    "softTotal": 70
+    "softFinanzenNotImmo": 47,
+    "softTotal": 74
   },
-  "totalMatching": 130,
+  "totalMatching": 134,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "LBS-Preisspiegel: Bestand stabil, neue Wohnungen fast sechs Prozent teurer",
+      "slug": "lbs-preisspiegel-2026-bestand-neubau",
+      "date": "2026-10-28",
+      "updated": "2026-10-28",
+      "category": "Makler",
+      "teaser": "Makler: „LBS-Preisspiegel: Bestand stabil, neue Wohnungen fast sechs Prozent teurer“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/lbs-preisspiegel-2026-bestand-neubau/",
+      "sourceFile": "2026-10-28-lbs-preisspiegel-2026-bestand-neubau.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "RE/MAX-Umfrage: Vermarktungszeiten am Immobilienmarkt werden länger",
       "slug": "remax-vermarktungszeiten-immobilienmarkt",
@@ -127,19 +140,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/greenwashing-immobilienwerbung/",
       "sourceFile": "2026-09-27-greenwashing-immobilienwerbung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Andalusien schafft Pflichtregister für Immobilienmakler",
-      "slug": "andalusien-pflichtregister-immobilienmakler",
-      "date": "2026-09-21",
-      "updated": "2026-09-21",
-      "category": "Makler",
-      "teaser": "Makler: „Andalusien schafft Pflichtregister für Immobilienmakler“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/andalusien-pflichtregister-immobilienmakler/",
-      "sourceFile": "2026-01-08-andalusien-pflichtregister-immobilienmakler.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -248,6 +248,45 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Europäischer Gaspreis überschreitet erstmals seit 2022 die 100-Euro-Marke",
+      "slug": "ttf-gaspreis-100-euro",
+      "date": "2026-10-29",
+      "updated": "2026-10-29",
+      "category": "Energie",
+      "teaser": "Energie: „Europäischer Gaspreis überschreitet erstmals seit 2022 die 100-Euro-Marke“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ttf-gaspreis-100-euro/",
+      "sourceFile": "2026-10-29-ttf-gaspreis-100-euro.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "BNetzA: Stromwechsel sparten rechnerisch 331 Millionen Euro",
+      "slug": "bnetza-strom-gas-wechselpreise-2026",
+      "date": "2026-10-28",
+      "updated": "2026-10-28",
+      "category": "Energie",
+      "teaser": "Energie: „BNetzA: Stromwechsel sparten rechnerisch 331 Millionen Euro“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-strom-gas-wechselpreise-2026/",
+      "sourceFile": "2026-10-28-bnetza-strom-gas-wechselpreise-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Stromumlagen 2027 steigen um 22,9 Prozent",
+      "slug": "stromumlagen-2027-netzkosten",
+      "date": "2026-10-28",
+      "updated": "2026-10-28",
+      "category": "Energie",
+      "teaser": "Energie: „Stromumlagen 2027 steigen um 22,9 Prozent“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/stromumlagen-2027-netzkosten/",
+      "sourceFile": "2026-10-28-stromumlagen-2027-netzkosten.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Strommarkt Q3 2026: Rekord-Solar trifft auf 52 Prozent höheren Großhandelspreis",
       "slug": "strommarkt-q3-2026-pv-nettoexport-preise",
       "date": "2026-10-25",
@@ -309,45 +348,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/netzentgelte-2027-regionale-unterschiede/",
       "sourceFile": "2026-10-22-netzentgelte-2027-regionale-unterschiede.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundesnetzagentur prüft kurzfristiges Ende des Stromanbieters grüüün",
-      "slug": "bundesnetzagentur-aufsicht-grueueuen",
-      "date": "2026-10-21",
-      "updated": "2026-10-21",
-      "category": "Energie",
-      "teaser": "Energie: „Bundesnetzagentur prüft kurzfristiges Ende des Stromanbieters grüüün“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundesnetzagentur-aufsicht-grueueuen/",
-      "sourceFile": "2026-10-21-bundesnetzagentur-aufsicht-grueueuen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Energie treibt Erzeugerpreise auf stärksten Anstieg seit März 2023",
-      "slug": "erzeugerpreise-september-2026-energie",
-      "date": "2026-10-20",
-      "updated": "2026-10-20",
-      "category": "Energie",
-      "teaser": "Energie: „Energie treibt Erzeugerpreise auf stärksten Anstieg seit März 2023“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/erzeugerpreise-september-2026-energie/",
-      "sourceFile": "2026-10-20-erzeugerpreise-september-2026-energie.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Studie: Vier-Stunden-Batterien unterbieten Gasturbinen in 43 Strommärkten",
-      "slug": "batteriespeicher-vier-stunden-gaskraftwerke-43-maerkte",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Energie",
-      "teaser": "Energie: „Studie: Vier-Stunden-Batterien unterbieten Gasturbinen in 43 Strommärkten“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/batteriespeicher-vier-stunden-gaskraftwerke-43-maerkte/",
-      "sourceFile": "2026-10-16-batteriespeicher-vier-stunden-gaskraftwerke-43-maerkte.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

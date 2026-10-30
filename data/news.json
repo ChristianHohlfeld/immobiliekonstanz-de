@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:49:45.218Z",
+  "generatedAt": "2026-10-30T10:48:07.927Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,8 +19,8 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 42,
-    "Makler": 33,
+    "Wohnungswirtschaft": 44,
+    "Makler": 34,
     "Regulierung": 17,
     "Energie": 42
   },
@@ -33,12 +33,25 @@
     "excludedCategoryTotal": 90,
     "softSpainNotMakler": 1,
     "softPureTechAi": 26,
-    "softFinanzenNotImmo": 47,
-    "softTotal": 74
+    "softFinanzenNotImmo": 49,
+    "softTotal": 76
   },
-  "totalMatching": 134,
+  "totalMatching": 137,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Hausgold-Auswertung: Inseratsdauer reicht regional von 3,1 bis 8,8 Wochen",
+      "slug": "hausgold-vermarktungsdauer-immobilien-regionen-2026",
+      "date": "2026-10-30",
+      "updated": "2026-10-30",
+      "category": "Makler",
+      "teaser": "Makler: „Hausgold-Auswertung: Inseratsdauer reicht regional von 3,1 bis 8,8 Wochen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hausgold-vermarktungsdauer-immobilien-regionen-2026/",
+      "sourceFile": "2026-10-30-hausgold-vermarktungsdauer-immobilien-regionen-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "LBS-Preisspiegel: Bestand stabil, neue Wohnungen fast sechs Prozent teurer",
       "slug": "lbs-preisspiegel-2026-bestand-neubau",
@@ -131,15 +144,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Seit 27. September: Pauschale Umweltversprechen werden riskanter",
-      "slug": "greenwashing-immobilienwerbung",
-      "date": "2026-09-28",
-      "updated": "2026-09-28",
-      "category": "Makler",
-      "teaser": "Makler: „Seit 27. September: Pauschale Umweltversprechen werden riskanter“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Ifo senkt Wohnungsbauprognose für 2028 auf 195.000 Wohnungen",
+      "slug": "ifo-wohnungsbauprognose-2028-195000",
+      "date": "2026-10-30",
+      "updated": "2026-10-30",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Ifo senkt Wohnungsbauprognose für 2028 auf 195.000 Wohnungen“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/greenwashing-immobilienwerbung/",
-      "sourceFile": "2026-09-27-greenwashing-immobilienwerbung.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ifo-wohnungsbauprognose-2028-195000/",
+      "sourceFile": "2026-10-30-ifo-wohnungsbauprognose-2028-195000.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Vonovia senkt Investitionsziel und bremst Neubau für den eigenen Bestand",
+      "slug": "vonovia-investitionen-neubau-ziele-2028",
+      "date": "2026-10-29",
+      "updated": "2026-10-29",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Vonovia senkt Investitionsziel und bremst Neubau für den eigenen Bestand“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vonovia-investitionen-neubau-ziele-2028/",
+      "sourceFile": "2026-10-29-vonovia-investitionen-neubau-ziele-2028.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -218,32 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/ifo-wohnungsbau-stimmung-rueckschlag/",
       "sourceFile": "2026-10-18-ifo-wohnungsbau-stimmung-rueckschlag.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "20.600 Baugenehmigungen im August: Mehrfamilienhäuser treiben Erholung",
-      "slug": "baugenehmigungen-august-2026-20600",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „20.600 Baugenehmigungen im August: Mehrfamilienhäuser treiben Erholung“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/baugenehmigungen-august-2026-20600/",
-      "sourceFile": "2026-10-16-baugenehmigungen-august-2026-20600.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Baupreise im August um 5,5 Prozent gestiegen – Instandhaltung plus sechs Prozent",
-      "slug": "baupreise-august-2026-55-prozent-neubau",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Baupreise im August um 5,5 Prozent gestiegen – Instandhaltung plus sechs Prozent“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/baupreise-august-2026-55-prozent-neubau/",
-      "sourceFile": "2026-10-16-baupreise-august-2026-55-prozent-neubau.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

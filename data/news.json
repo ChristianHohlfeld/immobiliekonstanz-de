@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:11:35.572Z",
+  "generatedAt": "2026-11-02T12:13:48.328Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -22,7 +22,7 @@
     "Wohnungswirtschaft": 45,
     "Makler": 35,
     "Regulierung": 18,
-    "Energie": 49
+    "Energie": 52
   },
   "dropped": {
     "byExcludedCategory": {
@@ -36,7 +36,7 @@
     "softFinanzenNotImmo": 51,
     "softTotal": 78
   },
-  "totalMatching": 147,
+  "totalMatching": 150,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,45 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "FNB Gas und INES legen Impulspapier zur Wintervorsorge vor",
+      "slug": "fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026",
+      "date": "2026-11-01",
+      "updated": "2026-11-01",
+      "category": "Energie",
+      "teaser": "Energie: „FNB Gas und INES legen Impulspapier zur Wintervorsorge vor“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026/",
+      "sourceFile": "2026-11-01-fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Sieben OPEC+-Staaten halten Öl-Förderziele für Dezember unverändert",
+      "slug": "opec-plus-foerderziele-dezember-2026-unveraendert",
+      "date": "2026-11-01",
+      "updated": "2026-11-01",
+      "category": "Energie",
+      "teaser": "Energie: „Sieben OPEC+-Staaten halten Öl-Förderziele für Dezember unverändert“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/opec-plus-foerderziele-dezember-2026-unveraendert/",
+      "sourceFile": "2026-11-01-opec-plus-foerderziele-dezember-2026-unveraendert.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Venture Global startet Vertragslieferungen aus Plaquemines Phase 1",
+      "slug": "venture-global-plaquemines-phase-1-vertragslieferungen-2026",
+      "date": "2026-11-01",
+      "updated": "2026-11-01",
+      "category": "Energie",
+      "teaser": "Energie: „Venture Global startet Vertragslieferungen aus Plaquemines Phase 1“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/venture-global-plaquemines-phase-1-vertragslieferungen-2026/",
+      "sourceFile": "2026-11-01-venture-global-plaquemines-phase-1-vertragslieferungen-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Enerparc führt Investorenprozess mit ausgewählten Bietern fort",
       "slug": "enerparc-investorenprozess-zweite-phase",
       "date": "2026-10-31",
@@ -309,45 +348,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/vattenfall-hybridpark-hommerdingen-biesdorf/",
       "sourceFile": "2026-10-30-vattenfall-hybridpark-hommerdingen-biesdorf.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "BMWE weist Italiens Gasvorwurf zurück: Speicherziele ohne Sanktionen",
-      "slug": "bmwe-italien-gasspeicherziele-ohne-sanktionen",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „BMWE weist Italiens Gasvorwurf zurück: Speicherziele ohne Sanktionen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bmwe-italien-gasspeicherziele-ohne-sanktionen/",
-      "sourceFile": "2026-10-31-bmwe-italien-gasspeicherziele-ohne-sanktionen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "SEFE erhöht Gasliefermenge mit Trafigura auf 30 Terawattstunden pro Jahr",
-      "slug": "sefe-trafigura-gasliefervertrag-150-twh",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „SEFE erhöht Gasliefermenge mit Trafigura auf 30 Terawattstunden pro Jahr“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/sefe-trafigura-gasliefervertrag-150-twh/",
-      "sourceFile": "2026-10-31-sefe-trafigura-gasliefervertrag-150-twh.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Europäischer Gaspreis überschreitet erstmals seit 2022 die 100-Euro-Marke",
-      "slug": "ttf-gaspreis-100-euro",
-      "date": "2026-10-29",
-      "updated": "2026-10-29",
-      "category": "Energie",
-      "teaser": "Energie: „Europäischer Gaspreis überschreitet erstmals seit 2022 die 100-Euro-Marke“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ttf-gaspreis-100-euro/",
-      "sourceFile": "2026-10-29-ttf-gaspreis-100-euro.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:13:48.328Z",
+  "generatedAt": "2026-11-03T11:48:17.839Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 45,
+    "Wohnungswirtschaft": 48,
     "Makler": 35,
-    "Regulierung": 18,
-    "Energie": 52
+    "Regulierung": 19,
+    "Energie": 53
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 50,
-      "Prozesse": 26
+      "KI": 51,
+      "Prozesse": 27
     },
-    "excludedCategoryTotal": 94,
+    "excludedCategoryTotal": 96,
     "softSpainNotMakler": 1,
-    "softPureTechAi": 26,
-    "softFinanzenNotImmo": 51,
-    "softTotal": 78
+    "softPureTechAi": 28,
+    "softFinanzenNotImmo": 52,
+    "softTotal": 81
   },
-  "totalMatching": 150,
+  "totalMatching": 155,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,45 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Wirtschaftsbeirat fordert mehr Bauland: Wohnungsmangel bremst Jobwechsel",
+      "slug": "bmwe-beirat-wohnungsmangel-wachstum-bauland",
+      "date": "2026-11-03",
+      "updated": "2026-11-03",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Wirtschaftsbeirat fordert mehr Bauland: Wohnungsmangel bremst Jobwechsel“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bmwe-beirat-wohnungsmangel-wachstum-bauland/",
+      "sourceFile": "2026-11-03-bmwe-beirat-wohnungsmangel-wachstum-bauland.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Immobilien-Sentiment 2026: Wohnen robust, Büroinvestments unter Druck",
+      "slug": "immobilien-sentiment-2026-112-marktteilnehmer",
+      "date": "2026-11-02",
+      "updated": "2026-11-02",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Immobilien-Sentiment 2026: Wohnen robust, Büroinvestments unter Druck“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immobilien-sentiment-2026-112-marktteilnehmer/",
+      "sourceFile": "2026-11-02-immobilien-sentiment-2026-112-marktteilnehmer.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Mietwucher-App: 11.157 Verdachtsmeldungen an Wohnungsämter",
+      "slug": "mietwucher-app-zweijahresbilanz-11157-meldungen",
+      "date": "2026-11-02",
+      "updated": "2026-11-02",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Mietwucher-App: 11.157 Verdachtsmeldungen an Wohnungsämter“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/mietwucher-app-zweijahresbilanz-11157-meldungen/",
+      "sourceFile": "2026-11-02-mietwucher-app-zweijahresbilanz-11157-meldungen.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Campus 1000: Peter Gross beziffert Bauauftrag für 306 Studierendenplätze auf 26,5 Millionen Euro",
       "slug": "campus1000-studentenwohnheim-306-plaetze",
       "date": "2026-10-31",
@@ -209,41 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Bauaufträge im August: Rekordplus durch Großaufträge, Hochbau bleibt schwach",
-      "slug": "bauauftragseingang-august-2026-grossauftraege",
-      "date": "2026-10-23",
-      "updated": "2026-10-23",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Bauaufträge im August: Rekordplus durch Großaufträge, Hochbau bleibt schwach“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bauauftragseingang-august-2026-grossauftraege/",
-      "sourceFile": "2026-10-23-bauauftragseingang-august-2026-grossauftraege.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Wohnungsmarkt im dritten Quartal: Mieten steigen, Investitionen bleiben zinssensibel",
-      "slug": "cbre-wohnmarkt-q3-2026-mietanstieg-investitionen",
-      "date": "2026-10-23",
-      "updated": "2026-10-23",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Wohnungsmarkt im dritten Quartal: Mieten steigen, Investitionen bleiben zinssensibel“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/cbre-wohnmarkt-q3-2026-mietanstieg-investitionen/",
-      "sourceFile": "2026-10-23-cbre-wohnmarkt-q3-2026-mietanstieg-investitionen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Elementarschutz soll Standard in der Wohngebäudeversicherung werden",
-      "slug": "elementarschutz-wohngebaeude-diskussionspapier",
-      "date": "2026-10-22",
-      "updated": "2026-10-22",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Elementarschutz soll Standard in der Wohngebäudeversicherung werden“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/elementarschutz-wohngebaeude-diskussionspapier/",
-      "sourceFile": "2026-10-22-elementarschutz-wohngebaeude-diskussionspapier.md",
+      "title": "Hamburg startet Fair Grid: Neue Vergaberegeln für große Netzanschlüsse",
+      "slug": "hamburg-fair-grid-netzanschluesse-vergabestart",
+      "date": "2026-11-02",
+      "updated": "2026-11-02",
+      "category": "Energie",
+      "teaser": "Energie: „Hamburg startet Fair Grid: Neue Vergaberegeln für große Netzanschlüsse“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hamburg-fair-grid-netzanschluesse-vergabestart/",
+      "sourceFile": "2026-11-02-hamburg-fair-grid-netzanschluesse-vergabestart.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -339,15 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Vattenfall nimmt ersten eigenen Wind-Solar-Hybridpark in Deutschland in Betrieb",
-      "slug": "vattenfall-hybridpark-hommerdingen-biesdorf",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „Vattenfall nimmt ersten eigenen Wind-Solar-Hybridpark in Deutschland in Betrieb“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vattenfall-hybridpark-hommerdingen-biesdorf/",
-      "sourceFile": "2026-10-30-vattenfall-hybridpark-hommerdingen-biesdorf.md",
+      "title": "Geldwäsche-Entwurf: Immobilienregister-Zugang für Behörden ab 2029 geplant",
+      "slug": "geldwaesche-referentenentwurf-immobilienzugang-2029",
+      "date": "2026-11-02",
+      "updated": "2026-11-02",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Geldwäsche-Entwurf: Immobilienregister-Zugang für Behörden ab 2029 geplant“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/geldwaesche-referentenentwurf-immobilienzugang-2029/",
+      "sourceFile": "2026-11-02-geldwaesche-referentenentwurf-immobilienzugang-2029.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-online-notariat-gesellschaftsrecht/",
       "sourceFile": "2026-10-18-bundestag-online-notariat-gesellschaftsrecht.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Britische CMA prüft Sonderaufsicht für Microsofts Bürosoftware",
-      "slug": "cma-microsoft-business-software-sms",
-      "date": "2026-10-17",
-      "updated": "2026-10-17",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Britische CMA prüft Sonderaufsicht für Microsofts Bürosoftware“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/cma-microsoft-business-software-sms/",
-      "sourceFile": "2026-10-17-cma-microsoft-business-software-sms.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

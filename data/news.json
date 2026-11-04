@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:48:17.839Z",
+  "generatedAt": "2026-11-04T11:59:18.962Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 48,
+    "Wohnungswirtschaft": 49,
     "Makler": 35,
     "Regulierung": 19,
-    "Energie": 53
+    "Energie": 55
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
       "KI": 51,
-      "Prozesse": 27
+      "Prozesse": 28
     },
-    "excludedCategoryTotal": 96,
+    "excludedCategoryTotal": 97,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
     "softFinanzenNotImmo": 52,
     "softTotal": 81
   },
-  "totalMatching": 155,
+  "totalMatching": 158,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bauturbo: Nur acht Prozent der GdW-Unternehmen melden einen konkreten Einsatz",
+      "slug": "gdw-bauturbo-jahresbilanz-acht-prozent",
+      "date": "2026-11-04",
+      "updated": "2026-11-04",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Bauturbo: Nur acht Prozent der GdW-Unternehmen melden einen konkreten Einsatz“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gdw-bauturbo-jahresbilanz-acht-prozent/",
+      "sourceFile": "2026-11-04-gdw-bauturbo-jahresbilanz.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Wirtschaftsbeirat fordert mehr Bauland: Wohnungsmangel bremst Jobwechsel",
       "slug": "bmwe-beirat-wohnungsmangel-wachstum-bauland",
       "date": "2026-11-03",
@@ -235,15 +248,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Berlin plant Vergesellschaftung: Bis zu 160.000 Wohnungen im Fokus",
-      "slug": "berlin-vergesellschaftung-wohnungskonzerne-2028",
-      "date": "2026-10-25",
-      "updated": "2026-10-25",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Berlin plant Vergesellschaftung: Bis zu 160.000 Wohnungen im Fokus“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/berlin-vergesellschaftung-wohnungskonzerne-2028/",
-      "sourceFile": "2026-10-25-berlin-vergesellschaftung-wohnungskonzerne-2028.md",
+      "title": "Aufdach-PV fast gedeckt, Biomasse erneut unterzeichnet: Bundesnetzagentur vergibt neue Zuschläge",
+      "slug": "bnetza-aufdach-pv-biomasse-ausschreibung-oktober-2026",
+      "date": "2026-11-04",
+      "updated": "2026-11-04",
+      "category": "Energie",
+      "teaser": "Energie: „Aufdach-PV fast gedeckt, Biomasse erneut unterzeichnet: Bundesnetzagentur vergibt neue Zuschläge“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-aufdach-pv-biomasse-ausschreibung-oktober-2026/",
+      "sourceFile": "2026-11-04-bnetza-aufdach-pv-biomasse-ausschreibung.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Bundesnetzagentur vergibt erste Kraftwerkszuschläge: 5.160 MW statt 4.500 MW",
+      "slug": "bnetza-stromvkg-erste-zuschlaege-5160-mw",
+      "date": "2026-11-03",
+      "updated": "2026-11-03",
+      "category": "Energie",
+      "teaser": "Energie: „Bundesnetzagentur vergibt erste Kraftwerkszuschläge: 5.160 MW statt 4.500 MW“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-stromvkg-erste-zuschlaege-5160-mw/",
+      "sourceFile": "2026-11-03-bnetza-stromvkg-erste-zuschlaege-5160-mw.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -322,32 +348,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/mvv-energreen-profit-share-sekundaerregelleistung/",
       "sourceFile": "2026-10-29-mvv-energreen-profit-share-sekundaerregelleistung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Verbraucherzentrale prüft Sammelklage gegen Stromanbieter grüüün",
-      "slug": "vzbv-sammelklage-grueueuen",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „Verbraucherzentrale prüft Sammelklage gegen Stromanbieter grüüün“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vzbv-sammelklage-grueueuen/",
-      "sourceFile": "2026-10-29-vzbv-sammelklage-grueueuen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "EWE startet FlexVorteil: 120 Euro Jahresbonus für Heimspeicher",
-      "slug": "ewe-flexvorteil-batteriespeicher-120-euro",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „EWE startet FlexVorteil: 120 Euro Jahresbonus für Heimspeicher“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ewe-flexvorteil-batteriespeicher-120-euro/",
-      "sourceFile": "2026-10-30-ewe-flexvorteil-batteriespeicher-120-euro.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

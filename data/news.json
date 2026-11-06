@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:07:23.297Z",
+  "generatedAt": "2026-11-06T11:58:26.495Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,10 +19,10 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 50,
-    "Makler": 36,
-    "Regulierung": 21,
-    "Energie": 55
+    "Wohnungswirtschaft": 51,
+    "Makler": 38,
+    "Regulierung": 22,
+    "Energie": 57
   },
   "dropped": {
     "byExcludedCategory": {
@@ -33,12 +33,38 @@
     "excludedCategoryTotal": 98,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 54,
-    "softTotal": 83
+    "softFinanzenNotImmo": 57,
+    "softTotal": 86
   },
-  "totalMatching": 162,
+  "totalMatching": 168,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Immowelt: Wärmepumpen-Objekte werden 13,6 Prozent teurer angeboten",
+      "slug": "immowelt-heizungsart-angebotspreise",
+      "date": "2026-11-06",
+      "updated": "2026-11-06",
+      "category": "Makler",
+      "teaser": "Makler: „Immowelt: Wärmepumpen-Objekte werden 13,6 Prozent teurer angeboten“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immowelt-heizungsart-angebotspreise/",
+      "sourceFile": "2026-11-06-immowelt-heizungsart-angebotspreise.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "GREIX: Wohnungspreise fallen erstmals seit mehr als zwei Jahren",
+      "slug": "greix-kaufpreisindex-q3-wohnungspreise-minus",
+      "date": "2026-11-05",
+      "updated": "2026-11-05",
+      "category": "Makler",
+      "teaser": "Makler: „GREIX: Wohnungspreise fallen erstmals seit mehr als zwei Jahren“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/greix-kaufpreisindex-q3-wohnungspreise-minus/",
+      "sourceFile": "2026-11-05-greix-kaufpreisindex-q3-wohnungspreise-minus.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Scout24: Maklergeschäft wächst um 23,3 Prozent – Proppi startet in Propstack",
       "slug": "scout24-proppi-maklergeschaeft-q3-2026",
@@ -118,28 +144,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "ImmoScout24: Kaufnachfrage in Metropolen um neun Prozent gesunken",
-      "slug": "immoscout24-q3-2026-kaufnachfrage-minus-neun",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Makler",
-      "teaser": "Makler: „ImmoScout24: Kaufnachfrage in Metropolen um neun Prozent gesunken“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immoscout24-q3-2026-kaufnachfrage-minus-neun/",
-      "sourceFile": "2026-10-16-immoscout24-q3-2026-kaufnachfrage-minus-neun.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "immowelt und Sparkassen vernetzen 150.000 Kaufangebote und 20.000 Sparkassen-Objekte",
-      "slug": "immowelt-sparkassen-kooperation-150000-20000",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Makler",
-      "teaser": "Makler: „immowelt und Sparkassen vernetzen 150.000 Kaufangebote und 20.000 Sparkassen-Objekte“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immowelt-sparkassen-kooperation-150000-20000/",
-      "sourceFile": "2026-10-16-immowelt-sparkassen-kooperation-150000-20000.md",
+      "title": "BEG-Studie: Förderbasis für Mehrfamilienhäuser sinkt deutlich",
+      "slug": "gdw-ifeu-beg-mehrfamilienhaus-foerderung",
+      "date": "2026-11-06",
+      "updated": "2026-11-06",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „BEG-Studie: Förderbasis für Mehrfamilienhäuser sinkt deutlich“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gdw-ifeu-beg-mehrfamilienhaus-foerderung/",
+      "sourceFile": "2026-11-06-gdw-ifeu-beg-mehrfamilienhaus-foerderung.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -235,15 +248,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Vonovia senkt Investitionsziel und bremst Neubau für den eigenen Bestand",
-      "slug": "vonovia-investitionen-neubau-ziele-2028",
-      "date": "2026-10-29",
-      "updated": "2026-10-29",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Vonovia senkt Investitionsziel und bremst Neubau für den eigenen Bestand“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vonovia-investitionen-neubau-ziele-2028/",
-      "sourceFile": "2026-10-29-vonovia-investitionen-neubau-ziele-2028.md",
+      "title": "Wallbox-Förderung: WEG-Aufruf vorzeitig geschlossen, KMU-Frist läuft",
+      "slug": "wallbox-foerderung-mehrparteienhaus-weg-stopp",
+      "date": "2026-11-06",
+      "updated": "2026-11-06",
+      "category": "Energie",
+      "teaser": "Energie: „Wallbox-Förderung: WEG-Aufruf vorzeitig geschlossen, KMU-Frist läuft“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/wallbox-foerderung-mehrparteienhaus-weg-stopp/",
+      "sourceFile": "2026-11-06-wallbox-foerderung-mehrparteienhaus-weg-stopp.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Bundesnetzagentur verschiebt Gasnetz-Verzinsung auf 2027",
+      "slug": "bnetza-wacc-gas-2027-verschoben",
+      "date": "2026-11-05",
+      "updated": "2026-11-05",
+      "category": "Energie",
+      "teaser": "Energie: „Bundesnetzagentur verschiebt Gasnetz-Verzinsung auf 2027“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-wacc-gas-2027-verschoben/",
+      "sourceFile": "2026-11-05-bnetza-wacc-gas-2027-verschoben.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -326,28 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Enerparc führt Investorenprozess mit ausgewählten Bietern fort",
-      "slug": "enerparc-investorenprozess-zweite-phase",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „Enerparc führt Investorenprozess mit ausgewählten Bietern fort“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/enerparc-investorenprozess-zweite-phase/",
-      "sourceFile": "2026-10-27-enerparc-investorenprozess-zweite-phase.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "MVV und Energreen teilen Erlöse aus Regelenergie eines Windparks",
-      "slug": "mvv-energreen-profit-share-sekundaerregelleistung",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Energie",
-      "teaser": "Energie: „MVV und Energreen teilen Erlöse aus Regelenergie eines Windparks“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/mvv-energreen-profit-share-sekundaerregelleistung/",
-      "sourceFile": "2026-10-29-mvv-energreen-profit-share-sekundaerregelleistung.md",
+      "title": "Bundestag verlängert E-Auto-Sonderrechte bis 2035",
+      "slug": "bundestag-elektromobilitaetsgesetz-sonderrechte-2035",
+      "date": "2026-11-05",
+      "updated": "2026-11-05",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Bundestag verlängert E-Auto-Sonderrechte bis 2035“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-elektromobilitaetsgesetz-sonderrechte-2035/",
+      "sourceFile": "2026-11-05-bundestag-elektromobilitaetsgesetz-2035.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/google-cloud-ausfall-dora-aufsicht/",
       "sourceFile": "2026-10-22-google-cloud-ausfall-dora-aufsicht.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Datenschutzprozess: Meta soll New Mexico 25 Milliarden Dollar zahlen",
-      "slug": "meta-new-mexico-datenschutz-25-milliarden",
-      "date": "2026-10-22",
-      "updated": "2026-10-22",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Datenschutzprozess: Meta soll New Mexico 25 Milliarden Dollar zahlen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/meta-new-mexico-datenschutz-25-milliarden/",
-      "sourceFile": "2026-10-22-meta-new-mexico-datenschutz-25-milliarden.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

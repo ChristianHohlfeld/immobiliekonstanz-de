@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:58:26.495Z",
+  "generatedAt": "2026-11-07T10:58:30.868Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -20,25 +20,38 @@
   },
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 51,
-    "Makler": 38,
+    "Makler": 39,
     "Regulierung": 22,
-    "Energie": 57
+    "Energie": 60
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
       "KI": 52,
-      "Prozesse": 28
+      "Prozesse": 30
     },
-    "excludedCategoryTotal": 98,
+    "excludedCategoryTotal": 100,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
     "softFinanzenNotImmo": 57,
     "softTotal": 86
   },
-  "totalMatching": 168,
+  "totalMatching": 172,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Immobilienumsatz in Bayern steigt nach neun Monaten um sechs Prozent",
+      "slug": "ivd-bayern-immobilienumsatz-q3-2026",
+      "date": "2026-11-07",
+      "updated": "2026-11-07",
+      "category": "Makler",
+      "teaser": "Makler: „Immobilienumsatz in Bayern steigt nach neun Monaten um sechs Prozent“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ivd-bayern-immobilienumsatz-q3-2026/",
+      "sourceFile": "2026-11-07-ivd-bayern-immobilienumsatz-q3-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Immowelt: Wärmepumpen-Objekte werden 13,6 Prozent teurer angeboten",
       "slug": "immowelt-heizungsart-angebotspreise",
@@ -127,19 +140,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/remax-vermarktungszeiten-immobilienmarkt/",
       "sourceFile": "2026-10-18-remax-vermarktungszeiten-immobilienmarkt.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Europace: Bestandspreise sinken im September – Neubau steigt auf Rekord",
-      "slug": "europace-september-2026-bestand-abschluss",
-      "date": "2026-10-16",
-      "updated": "2026-10-16",
-      "category": "Makler",
-      "teaser": "Makler: „Europace: Bestandspreise sinken im September – Neubau steigt auf Rekord“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/europace-september-2026-bestand-abschluss/",
-      "sourceFile": "2026-10-16-europace-september-2026-bestand-abschluss.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -248,6 +248,32 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Verteilnetzbetreiber melden 270 Milliarden Euro Investitionsbedarf",
+      "slug": "bnetza-verteilnetzausbauplaene-270-milliarden",
+      "date": "2026-11-07",
+      "updated": "2026-11-07",
+      "category": "Energie",
+      "teaser": "Energie: „Verteilnetzbetreiber melden 270 Milliarden Euro Investitionsbedarf“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-verteilnetzausbauplaene-270-milliarden/",
+      "sourceFile": "2026-11-07-bnetza-verteilnetzausbauplaene-270-milliarden.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Bundestag verweist Biomasseverordnung zurück in die Ausschüsse",
+      "slug": "bundestag-biomasseverordnung-holzfoerderung",
+      "date": "2026-11-06",
+      "updated": "2026-11-07",
+      "category": "Energie",
+      "teaser": "Energie: „Bundestag verweist Biomasseverordnung zurück in die Ausschüsse“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-biomasseverordnung-holzfoerderung/",
+      "sourceFile": "2026-11-06-bundestag-biomasseverordnung-holzfoerderung.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Wallbox-Förderung: WEG-Aufruf vorzeitig geschlossen, KMU-Frist läuft",
       "slug": "wallbox-foerderung-mehrparteienhaus-weg-stopp",
       "date": "2026-11-06",
@@ -257,6 +283,19 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/wallbox-foerderung-mehrparteienhaus-weg-stopp/",
       "sourceFile": "2026-11-06-wallbox-foerderung-mehrparteienhaus-weg-stopp.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Windkraft-Ausbau: Transport und Netzanschluss werden zum Engpass",
+      "slug": "windkraft-transport-netzanschluss-engpaesse",
+      "date": "2026-11-06",
+      "updated": "2026-11-06",
+      "category": "Energie",
+      "teaser": "Energie: „Windkraft-Ausbau: Transport und Netzanschluss werden zum Engpass“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/windkraft-transport-netzanschluss-engpaesse/",
+      "sourceFile": "2026-11-06-windkraft-transport-netzanschluss-engpaesse.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -309,45 +348,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/hamburg-fair-grid-netzanschluesse-vergabestart/",
       "sourceFile": "2026-11-02-hamburg-fair-grid-netzanschluesse-vergabestart.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "FNB Gas und INES legen Impulspapier zur Wintervorsorge vor",
-      "slug": "fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026",
-      "date": "2026-11-01",
-      "updated": "2026-11-01",
-      "category": "Energie",
-      "teaser": "Energie: „FNB Gas und INES legen Impulspapier zur Wintervorsorge vor“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026/",
-      "sourceFile": "2026-11-01-fnb-gas-ines-impulspapier-wintervorsorge-lieferantenpflicht-2026.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Sieben OPEC+-Staaten halten Öl-Förderziele für Dezember unverändert",
-      "slug": "opec-plus-foerderziele-dezember-2026-unveraendert",
-      "date": "2026-11-01",
-      "updated": "2026-11-01",
-      "category": "Energie",
-      "teaser": "Energie: „Sieben OPEC+-Staaten halten Öl-Förderziele für Dezember unverändert“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/opec-plus-foerderziele-dezember-2026-unveraendert/",
-      "sourceFile": "2026-11-01-opec-plus-foerderziele-dezember-2026-unveraendert.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Venture Global startet Vertragslieferungen aus Plaquemines Phase 1",
-      "slug": "venture-global-plaquemines-phase-1-vertragslieferungen-2026",
-      "date": "2026-11-01",
-      "updated": "2026-11-01",
-      "category": "Energie",
-      "teaser": "Energie: „Venture Global startet Vertragslieferungen aus Plaquemines Phase 1“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/venture-global-plaquemines-phase-1-vertragslieferungen-2026/",
-      "sourceFile": "2026-11-01-venture-global-plaquemines-phase-1-vertragslieferungen-2026.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

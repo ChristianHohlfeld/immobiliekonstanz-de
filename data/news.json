@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:58:30.868Z",
+  "generatedAt": "2026-11-08T11:11:58.317Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,7 +19,7 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 51,
+    "Wohnungswirtschaft": 52,
     "Makler": 39,
     "Regulierung": 22,
     "Energie": 60
@@ -36,7 +36,7 @@
     "softFinanzenNotImmo": 57,
     "softTotal": 86
   },
-  "totalMatching": 172,
+  "totalMatching": 173,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bayern genehmigt 4,9 Prozent mehr Wohnungen – Städte fallen zurück",
+      "slug": "bayern-baugenehmigungen-q3-2026",
+      "date": "2026-11-08",
+      "updated": "2026-11-08",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Bayern genehmigt 4,9 Prozent mehr Wohnungen – Städte fallen zurück“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bayern-baugenehmigungen-q3-2026/",
+      "sourceFile": "2026-11-08-bayern-baugenehmigungen-q3-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "BEG-Studie: Förderbasis für Mehrfamilienhäuser sinkt deutlich",
       "slug": "gdw-ifeu-beg-mehrfamilienhaus-foerderung",
       "date": "2026-11-06",
@@ -231,19 +244,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/campus1000-studentenwohnheim-306-plaetze/",
       "sourceFile": "2026-10-31-campus1000-studentenwohnheim-306-plaetze.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Ifo senkt Wohnungsbauprognose für 2028 auf 195.000 Wohnungen",
-      "slug": "ifo-wohnungsbauprognose-2028-195000",
-      "date": "2026-10-30",
-      "updated": "2026-10-30",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Ifo senkt Wohnungsbauprognose für 2028 auf 195.000 Wohnungen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/ifo-wohnungsbauprognose-2028-195000/",
-      "sourceFile": "2026-10-30-ifo-wohnungsbauprognose-2028-195000.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

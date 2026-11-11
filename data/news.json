@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:26:57.946Z",
+  "generatedAt": "2026-11-11T11:47:17.997Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,24 +19,24 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 52,
+    "Wohnungswirtschaft": 53,
     "Makler": 39,
-    "Regulierung": 22,
-    "Energie": 60
+    "Regulierung": 23,
+    "Energie": 61
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 52,
-      "Prozesse": 30
+      "KI": 57,
+      "Prozesse": 31
     },
-    "excludedCategoryTotal": 100,
+    "excludedCategoryTotal": 106,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 57,
-    "softTotal": 86
+    "softFinanzenNotImmo": 58,
+    "softTotal": 87
   },
-  "totalMatching": 173,
+  "totalMatching": 176,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "vdp: Neuvertragsmieten steigen um 3,5 Prozent, Wohnimmobilienpreise stagnieren",
+      "slug": "vdp-mietanstieg-immobilienpreise-q3",
+      "date": "2026-11-10",
+      "updated": "2026-11-10",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „vdp: Neuvertragsmieten steigen um 3,5 Prozent, Wohnimmobilienpreise stagnieren“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vdp-mietanstieg-immobilienpreise-q3/",
+      "sourceFile": "2026-11-10-vdp-mietanstieg-immobilienpreise-q3.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Bayern genehmigt 4,9 Prozent mehr Wohnungen – Städte fallen zurück",
       "slug": "bayern-baugenehmigungen-q3-2026",
       "date": "2026-11-08",
@@ -235,15 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Campus 1000: Peter Gross beziffert Bauauftrag für 306 Studierendenplätze auf 26,5 Millionen Euro",
-      "slug": "campus1000-studentenwohnheim-306-plaetze",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Campus 1000: Peter Gross beziffert Bauauftrag für 306 Studierendenplätze auf 26,5 Millionen Eu…“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/campus1000-studentenwohnheim-306-plaetze/",
-      "sourceFile": "2026-10-31-campus1000-studentenwohnheim-306-plaetze.md",
+      "title": "VKU: 38 Prozent der Stadtwerke haben noch keinen Plan für ihr Gasnetz",
+      "slug": "vku-stadtwerke-gasnetze-umfrage",
+      "date": "2026-11-10",
+      "updated": "2026-11-10",
+      "category": "Energie",
+      "teaser": "Energie: „VKU: 38 Prozent der Stadtwerke haben noch keinen Plan für ihr Gasnetz“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vku-stadtwerke-gasnetze-umfrage/",
+      "sourceFile": "2026-11-10-vku-stadtwerke-gasnetze-umfrage.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -339,15 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Hamburg startet Fair Grid: Neue Vergaberegeln für große Netzanschlüsse",
-      "slug": "hamburg-fair-grid-netzanschluesse-vergabestart",
-      "date": "2026-11-02",
-      "updated": "2026-11-02",
-      "category": "Energie",
-      "teaser": "Energie: „Hamburg startet Fair Grid: Neue Vergaberegeln für große Netzanschlüsse“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Landgericht Frankfurt hält hessische Mietpreisbremse für 2025/26 für unwirksam",
+      "slug": "hessen-mietpreisbremse-landgericht-unwirksam",
+      "date": "2026-11-10",
+      "updated": "2026-11-10",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Landgericht Frankfurt hält hessische Mietpreisbremse für 2025/26 für unwirksam“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hamburg-fair-grid-netzanschluesse-vergabestart/",
-      "sourceFile": "2026-11-02-hamburg-fair-grid-netzanschluesse-vergabestart.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hessen-mietpreisbremse-landgericht-unwirksam/",
+      "sourceFile": "2026-11-10-hessen-mietpreisbremse-landgericht-unwirksam.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen/",
       "sourceFile": "2026-10-23-eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Google-Cloud-Ausfall wird zum ersten großen Test der europäischen DORA-Aufsicht",
-      "slug": "google-cloud-ausfall-dora-aufsicht",
-      "date": "2026-10-22",
-      "updated": "2026-10-22",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Google-Cloud-Ausfall wird zum ersten großen Test der europäischen DORA-Aufsicht“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/google-cloud-ausfall-dora-aufsicht/",
-      "sourceFile": "2026-10-22-google-cloud-ausfall-dora-aufsicht.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

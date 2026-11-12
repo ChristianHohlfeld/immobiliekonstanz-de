@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:47:17.997Z",
+  "generatedAt": "2026-11-12T12:30:16.269Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -20,25 +20,38 @@
   },
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 53,
-    "Makler": 39,
-    "Regulierung": 23,
-    "Energie": 61
+    "Makler": 40,
+    "Regulierung": 24,
+    "Energie": 63
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 57,
-      "Prozesse": 31
+      "KI": 59,
+      "Prozesse": 32
     },
-    "excludedCategoryTotal": 106,
+    "excludedCategoryTotal": 109,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 58,
-    "softTotal": 87
+    "softFinanzenNotImmo": 59,
+    "softTotal": 88
   },
-  "totalMatching": 176,
+  "totalMatching": 180,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Europace: Wohnungspreise fallen im Oktober um 0,87 Prozent",
+      "slug": "europace-wohnungspreise-oktober-2026",
+      "date": "2026-11-11",
+      "updated": "2026-11-11",
+      "category": "Makler",
+      "teaser": "Makler: „Europace: Wohnungspreise fallen im Oktober um 0,87 Prozent“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/europace-wohnungspreise-oktober-2026/",
+      "sourceFile": "2026-11-11-europace-wohnungspreise-oktober-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Immobilienumsatz in Bayern steigt nach neun Monaten um sechs Prozent",
       "slug": "ivd-bayern-immobilienumsatz-q3-2026",
@@ -127,19 +140,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/lbs-preisspiegel-2026-bestand-neubau/",
       "sourceFile": "2026-10-28-lbs-preisspiegel-2026-bestand-neubau.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "RE/MAX-Umfrage: Vermarktungszeiten am Immobilienmarkt werden länger",
-      "slug": "remax-vermarktungszeiten-immobilienmarkt",
-      "date": "2026-10-18",
-      "updated": "2026-10-18",
-      "category": "Makler",
-      "teaser": "Makler: „RE/MAX-Umfrage: Vermarktungszeiten am Immobilienmarkt werden länger“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/remax-vermarktungszeiten-immobilienmarkt/",
-      "sourceFile": "2026-10-18-remax-vermarktungszeiten-immobilienmarkt.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -248,6 +248,32 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bundeskabinett beschließt strategische Gasreserve mit 24 Terawattstunden",
+      "slug": "strategische-gasreserve-kabinettsbeschluss",
+      "date": "2026-11-12",
+      "updated": "2026-11-12",
+      "category": "Energie",
+      "teaser": "Energie: „Bundeskabinett beschließt strategische Gasreserve mit 24 Terawattstunden“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/strategische-gasreserve-kabinettsbeschluss/",
+      "sourceFile": "2026-11-12-strategische-gasreserve-kabinettsbeschluss.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Bundesnetzagentur schreibt weitere 3.840 Megawatt Langzeitkapazität aus",
+      "slug": "bnetza-zweite-langzeitkapazitaeten-ausschreibung",
+      "date": "2026-11-11",
+      "updated": "2026-11-11",
+      "category": "Energie",
+      "teaser": "Energie: „Bundesnetzagentur schreibt weitere 3.840 Megawatt Langzeitkapazität aus“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-zweite-langzeitkapazitaeten-ausschreibung/",
+      "sourceFile": "2026-11-11-bnetza-zweite-langzeitkapazitaeten-ausschreibung.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "VKU: 38 Prozent der Stadtwerke haben noch keinen Plan für ihr Gasnetz",
       "slug": "vku-stadtwerke-gasnetze-umfrage",
       "date": "2026-11-10",
@@ -326,28 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Aufdach-PV fast gedeckt, Biomasse erneut unterzeichnet: Bundesnetzagentur vergibt neue Zuschläge",
-      "slug": "bnetza-aufdach-pv-biomasse-ausschreibung-oktober-2026",
-      "date": "2026-11-04",
-      "updated": "2026-11-04",
-      "category": "Energie",
-      "teaser": "Energie: „Aufdach-PV fast gedeckt, Biomasse erneut unterzeichnet: Bundesnetzagentur vergibt neue Zuschläge“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Baden-Württemberg verlängert Mietpreisbremse bis 2029 und nimmt Konstanz wieder auf",
+      "slug": "baden-wuerttemberg-mietpreisbremse-2029",
+      "date": "2026-11-12",
+      "updated": "2026-11-12",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Baden-Württemberg verlängert Mietpreisbremse bis 2029 und nimmt Konstanz wieder auf“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-aufdach-pv-biomasse-ausschreibung-oktober-2026/",
-      "sourceFile": "2026-11-04-bnetza-aufdach-pv-biomasse-ausschreibung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundesnetzagentur vergibt erste Kraftwerkszuschläge: 5.160 MW statt 4.500 MW",
-      "slug": "bnetza-stromvkg-erste-zuschlaege-5160-mw",
-      "date": "2026-11-03",
-      "updated": "2026-11-03",
-      "category": "Energie",
-      "teaser": "Energie: „Bundesnetzagentur vergibt erste Kraftwerkszuschläge: 5.160 MW statt 4.500 MW“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-stromvkg-erste-zuschlaege-5160-mw/",
-      "sourceFile": "2026-11-03-bnetza-stromvkg-erste-zuschlaege-5160-mw.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/baden-wuerttemberg-mietpreisbremse-2029/",
+      "sourceFile": "2026-11-12-baden-wuerttemberg-mietpreisbremse-2029.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-inc-ratsposition-gesellschaftsrecht/",
       "sourceFile": "2026-10-24-eu-inc-ratsposition-gesellschaftsrecht.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "EU-Rat einigt sich auf Digital-Omnibus-Position zu Cookies, Datenschutz und Cybermeldungen",
-      "slug": "eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen",
-      "date": "2026-10-23",
-      "updated": "2026-10-23",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „EU-Rat einigt sich auf Digital-Omnibus-Position zu Cookies, Datenschutz und Cybermeldungen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen/",
-      "sourceFile": "2026-10-23-eu-rat-digital-omnibus-cookie-dsgvo-cybermeldungen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

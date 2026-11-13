@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T12:30:16.269Z",
+  "generatedAt": "2026-11-13T12:03:06.995Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -22,21 +22,21 @@
     "Wohnungswirtschaft": 53,
     "Makler": 40,
     "Regulierung": 24,
-    "Energie": 63
+    "Energie": 64
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 59,
+      "KI": 61,
       "Prozesse": 32
     },
-    "excludedCategoryTotal": 109,
+    "excludedCategoryTotal": 111,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
     "softFinanzenNotImmo": 59,
     "softTotal": 88
   },
-  "totalMatching": 180,
+  "totalMatching": 181,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bundestag beschließt 5,525 Milliarden Euro Netzkostenzuschuss pro Jahr",
+      "slug": "bundestag-netzkostenzuschuss-2027-2029",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Energie",
+      "teaser": "Energie: „Bundestag beschließt 5,525 Milliarden Euro Netzkostenzuschuss pro Jahr“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-netzkostenzuschuss-2027-2029/",
+      "sourceFile": "2026-11-13-bundestag-netzkostenzuschuss-2027-2029.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Bundeskabinett beschließt strategische Gasreserve mit 24 Terawattstunden",
       "slug": "strategische-gasreserve-kabinettsbeschluss",
       "date": "2026-11-12",
@@ -335,19 +348,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/windkraft-transport-netzanschluss-engpaesse/",
       "sourceFile": "2026-11-06-windkraft-transport-netzanschluss-engpaesse.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundesnetzagentur verschiebt Gasnetz-Verzinsung auf 2027",
-      "slug": "bnetza-wacc-gas-2027-verschoben",
-      "date": "2026-11-05",
-      "updated": "2026-11-05",
-      "category": "Energie",
-      "teaser": "Energie: „Bundesnetzagentur verschiebt Gasnetz-Verzinsung auf 2027“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-wacc-gas-2027-verschoben/",
-      "sourceFile": "2026-11-05-bnetza-wacc-gas-2027-verschoben.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

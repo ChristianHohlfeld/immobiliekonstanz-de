@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:03:06.995Z",
+  "generatedAt": "2026-11-14T11:21:07.031Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,26 +19,52 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 53,
-    "Makler": 40,
-    "Regulierung": 24,
-    "Energie": 64
+    "Wohnungswirtschaft": 55,
+    "Makler": 42,
+    "Regulierung": 25,
+    "Energie": 65
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 61,
+      "KI": 64,
       "Prozesse": 32
     },
-    "excludedCategoryTotal": 111,
+    "excludedCategoryTotal": 114,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 59,
-    "softTotal": 88
+    "softFinanzenNotImmo": 61,
+    "softTotal": 90
   },
-  "totalMatching": 181,
+  "totalMatching": 187,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Premiumwohnungen in den Top-7-Städten werden 7,6 Prozent günstiger angeboten",
+      "slug": "premiumimmobilien-top7-q3-2026",
+      "date": "2026-11-14",
+      "updated": "2026-11-14",
+      "category": "Makler",
+      "teaser": "Makler: „Premiumwohnungen in den Top-7-Städten werden 7,6 Prozent günstiger angeboten“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/premiumimmobilien-top7-q3-2026/",
+      "sourceFile": "2026-11-14-premiumimmobilien-top7-q3-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Empirica: Immobilien-Blasenrisiko sinkt auf 262 Kreise",
+      "slug": "empirica-blasenindex-q3-2026",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Makler",
+      "teaser": "Makler: „Empirica: Immobilien-Blasenrisiko sinkt auf 262 Kreise“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/empirica-blasenindex-q3-2026/",
+      "sourceFile": "2026-11-13-empirica-blasenindex-q3-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Europace: Wohnungspreise fallen im Oktober um 0,87 Prozent",
       "slug": "europace-wohnungspreise-oktober-2026",
@@ -118,28 +144,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Hausgold-Auswertung: Inseratsdauer reicht regional von 3,1 bis 8,8 Wochen",
-      "slug": "hausgold-vermarktungsdauer-immobilien-regionen-2026",
-      "date": "2026-10-30",
-      "updated": "2026-10-30",
-      "category": "Makler",
-      "teaser": "Makler: „Hausgold-Auswertung: Inseratsdauer reicht regional von 3,1 bis 8,8 Wochen“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/hausgold-vermarktungsdauer-immobilien-regionen-2026/",
-      "sourceFile": "2026-10-30-hausgold-vermarktungsdauer-immobilien-regionen-2026.md",
+      "title": "Techem: 29 Prozent privater Vermieter haben Fernablesung noch nicht begonnen",
+      "slug": "techem-fernablesbare-messtechnik-frist",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Techem: 29 Prozent privater Vermieter haben Fernablesung noch nicht begonnen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/techem-fernablesbare-messtechnik-frist/",
+      "sourceFile": "2026-11-13-techem-fernablesbare-messtechnik-frist.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "LBS-Preisspiegel: Bestand stabil, neue Wohnungen fast sechs Prozent teurer",
-      "slug": "lbs-preisspiegel-2026-bestand-neubau",
-      "date": "2026-10-28",
-      "updated": "2026-10-28",
-      "category": "Makler",
-      "teaser": "Makler: „LBS-Preisspiegel: Bestand stabil, neue Wohnungen fast sechs Prozent teurer“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/lbs-preisspiegel-2026-bestand-neubau/",
-      "sourceFile": "2026-10-28-lbs-preisspiegel-2026-bestand-neubau.md",
+      "title": "Koalition nimmt Wohngeldkürzungen zurück – Erhöhung 2027 bleibt aus",
+      "slug": "wohngeld-kuerzung-zurueckgenommen",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Koalition nimmt Wohngeldkürzungen zurück – Erhöhung 2027 bleibt aus“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/wohngeld-kuerzung-zurueckgenommen/",
+      "sourceFile": "2026-11-13-wohngeld-kuerzung-zurueckgenommen.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -222,28 +248,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Immobilien-Sentiment 2026: Wohnen robust, Büroinvestments unter Druck",
-      "slug": "immobilien-sentiment-2026-112-marktteilnehmer",
-      "date": "2026-11-02",
-      "updated": "2026-11-02",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Immobilien-Sentiment 2026: Wohnen robust, Büroinvestments unter Druck“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Agora fordert direkte Beschwerderechte für Fernwärmemieter",
+      "slug": "agora-waermenetzpaket-mieterschutz",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Energie",
+      "teaser": "Energie: „Agora fordert direkte Beschwerderechte für Fernwärmemieter“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/immobilien-sentiment-2026-112-marktteilnehmer/",
-      "sourceFile": "2026-11-02-immobilien-sentiment-2026-112-marktteilnehmer.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Mietwucher-App: 11.157 Verdachtsmeldungen an Wohnungsämter",
-      "slug": "mietwucher-app-zweijahresbilanz-11157-meldungen",
-      "date": "2026-11-02",
-      "updated": "2026-11-02",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Mietwucher-App: 11.157 Verdachtsmeldungen an Wohnungsämter“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/mietwucher-app-zweijahresbilanz-11157-meldungen/",
-      "sourceFile": "2026-11-02-mietwucher-app-zweijahresbilanz-11157-meldungen.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/agora-waermenetzpaket-mieterschutz/",
+      "sourceFile": "2026-11-13-agora-waermenetzpaket-mieterschutz.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -339,15 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Windkraft-Ausbau: Transport und Netzanschluss werden zum Engpass",
-      "slug": "windkraft-transport-netzanschluss-engpaesse",
-      "date": "2026-11-06",
-      "updated": "2026-11-06",
-      "category": "Energie",
-      "teaser": "Energie: „Windkraft-Ausbau: Transport und Netzanschluss werden zum Engpass“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Bundestag beschließt neue Steuerregeln für Immobilienverkäufe",
+      "slug": "jahressteuergesetz-2026-immobilien",
+      "date": "2026-11-13",
+      "updated": "2026-11-13",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Bundestag beschließt neue Steuerregeln für Immobilienverkäufe“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/windkraft-transport-netzanschluss-engpaesse/",
-      "sourceFile": "2026-11-06-windkraft-transport-netzanschluss-engpaesse.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/jahressteuergesetz-2026-immobilien/",
+      "sourceFile": "2026-11-13-jahressteuergesetz-2026-immobilien.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/windseeg-gegenaeusserung-regierung-indexierung/",
       "sourceFile": "2026-10-28-windseeg-gegenaeusserung-regierung-indexierung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "EU Inc: Rat legt Position für digitales EU-Gesellschaftsrecht fest",
-      "slug": "eu-inc-ratsposition-gesellschaftsrecht",
-      "date": "2026-10-24",
-      "updated": "2026-10-24",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „EU Inc: Rat legt Position für digitales EU-Gesellschaftsrecht fest“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-inc-ratsposition-gesellschaftsrecht/",
-      "sourceFile": "2026-10-24-eu-inc-ratsposition-gesellschaftsrecht.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

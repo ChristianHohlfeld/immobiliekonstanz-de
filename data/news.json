@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:21:07.031Z",
+  "generatedAt": "2026-11-15T11:52:16.438Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -22,7 +22,7 @@
     "Wohnungswirtschaft": 55,
     "Makler": 42,
     "Regulierung": 25,
-    "Energie": 65
+    "Energie": 66
   },
   "dropped": {
     "byExcludedCategory": {
@@ -36,7 +36,7 @@
     "softFinanzenNotImmo": 61,
     "softTotal": 90
   },
-  "totalMatching": 187,
+  "totalMatching": 188,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Solarstrom steuert 2026 erstmals auf mehr als 100 Terawattstunden zu",
+      "slug": "solarstrom-100-terawattstunden-2026",
+      "date": "2026-11-14",
+      "updated": "2026-11-14",
+      "category": "Energie",
+      "teaser": "Energie: „Solarstrom steuert 2026 erstmals auf mehr als 100 Terawattstunden zu“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/solarstrom-100-terawattstunden-2026/",
+      "sourceFile": "2026-11-14-solarstrom-100-terawattstunden-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Agora fordert direkte Beschwerderechte für Fernwärmemieter",
       "slug": "agora-waermenetzpaket-mieterschutz",
       "date": "2026-11-13",
@@ -335,19 +348,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-biomasseverordnung-holzfoerderung/",
       "sourceFile": "2026-11-06-bundestag-biomasseverordnung-holzfoerderung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Wallbox-Förderung: WEG-Aufruf vorzeitig geschlossen, KMU-Frist läuft",
-      "slug": "wallbox-foerderung-mehrparteienhaus-weg-stopp",
-      "date": "2026-11-06",
-      "updated": "2026-11-06",
-      "category": "Energie",
-      "teaser": "Energie: „Wallbox-Förderung: WEG-Aufruf vorzeitig geschlossen, KMU-Frist läuft“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/wallbox-foerderung-mehrparteienhaus-weg-stopp/",
-      "sourceFile": "2026-11-06-wallbox-foerderung-mehrparteienhaus-weg-stopp.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

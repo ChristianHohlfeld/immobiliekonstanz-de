@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:54:28.419Z",
+  "generatedAt": "2026-11-19T12:47:14.718Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -22,21 +22,21 @@
     "Wohnungswirtschaft": 56,
     "Makler": 42,
     "Regulierung": 25,
-    "Energie": 67
+    "Energie": 68
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 65,
+      "KI": 67,
       "Prozesse": 32
     },
-    "excludedCategoryTotal": 115,
+    "excludedCategoryTotal": 117,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 63,
-    "softTotal": 92
+    "softFinanzenNotImmo": 64,
+    "softTotal": 93
   },
-  "totalMatching": 190,
+  "totalMatching": 191,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -261,6 +261,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Koalition will Stromsteuer 2027 für alle auf EU-Mindestniveau senken",
+      "slug": "stromsteuer-2027-koalition",
+      "date": "2026-11-18",
+      "updated": "2026-11-18",
+      "category": "Energie",
+      "teaser": "Energie: „Koalition will Stromsteuer 2027 für alle auf EU-Mindestniveau senken“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/stromsteuer-2027-koalition/",
+      "sourceFile": "2026-11-18-stromsteuer-2027-koalition.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Solarstrom steuert 2026 erstmals auf mehr als 100 Terawattstunden zu",
       "slug": "solarstrom-100-terawattstunden-2026",
       "date": "2026-11-14",
@@ -335,19 +348,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/vku-stadtwerke-gasnetze-umfrage/",
       "sourceFile": "2026-11-10-vku-stadtwerke-gasnetze-umfrage.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Verteilnetzbetreiber melden 270 Milliarden Euro Investitionsbedarf",
-      "slug": "bnetza-verteilnetzausbauplaene-270-milliarden",
-      "date": "2026-11-07",
-      "updated": "2026-11-07",
-      "category": "Energie",
-      "teaser": "Energie: „Verteilnetzbetreiber melden 270 Milliarden Euro Investitionsbedarf“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-verteilnetzausbauplaene-270-milliarden/",
-      "sourceFile": "2026-11-07-bnetza-verteilnetzausbauplaene-270-milliarden.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

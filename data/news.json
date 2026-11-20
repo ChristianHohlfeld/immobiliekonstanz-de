@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:47:14.718Z",
+  "generatedAt": "2026-11-20T12:42:13.138Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,7 +19,7 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 56,
+    "Wohnungswirtschaft": 57,
     "Makler": 42,
     "Regulierung": 25,
     "Energie": 68
@@ -27,16 +27,16 @@
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 67,
+      "KI": 68,
       "Prozesse": 32
     },
-    "excludedCategoryTotal": 117,
+    "excludedCategoryTotal": 118,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 64,
-    "softTotal": 93
+    "softFinanzenNotImmo": 65,
+    "softTotal": 94
   },
-  "totalMatching": 191,
+  "totalMatching": 192,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -144,6 +144,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Heizöl 84,5 Prozent teurer – 4,7 Millionen Menschen heizen aus Geldmangel zu wenig",
+      "slug": "heizoel-preise-energiearmut-destatis",
+      "date": "2026-11-20",
+      "updated": "2026-11-20",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Heizöl 84,5 Prozent teurer – 4,7 Millionen Menschen heizen aus Geldmangel zu wenig“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/heizoel-preise-energiearmut-destatis/",
+      "sourceFile": "2026-11-20-heizoel-preise-energiearmut-destatis.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Baugenehmigungen fallen im September um 14,8 Prozent",
       "slug": "baugenehmigungen-september-2026",
       "date": "2026-11-18",
@@ -231,19 +244,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/gdw-bauturbo-jahresbilanz-acht-prozent/",
       "sourceFile": "2026-11-04-gdw-bauturbo-jahresbilanz.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Gropyus stellt für mehrere Tochtergesellschaften Insolvenzanträge",
-      "slug": "gropyus-toechter-insolvenzantraege",
-      "date": "2026-11-04",
-      "updated": "2026-11-04",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Gropyus stellt für mehrere Tochtergesellschaften Insolvenzanträge“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gropyus-toechter-insolvenzantraege/",
-      "sourceFile": "2026-11-04-gropyus-toechter-insolvenzantraege.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

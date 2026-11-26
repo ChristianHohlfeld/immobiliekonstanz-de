@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:14:58.571Z",
+  "generatedAt": "2026-11-26T04:14:14.489Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -21,22 +21,22 @@
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 57,
     "Makler": 42,
-    "Regulierung": 25,
-    "Energie": 68
+    "Regulierung": 26,
+    "Energie": 70
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 68,
-      "Prozesse": 32
+      "KI": 69,
+      "Prozesse": 33
     },
-    "excludedCategoryTotal": 118,
+    "excludedCategoryTotal": 120,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 65,
-    "softTotal": 94
+    "softFinanzenNotImmo": 67,
+    "softTotal": 96
   },
-  "totalMatching": 192,
+  "totalMatching": 195,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -248,6 +248,32 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "Bundesnetzagentur: Beirat schlägt Klaus Müller für zweite Amtszeit bis 2032 vor",
+      "slug": "bundesnetzagentur-klaus-mueller-zweite-amtszeit",
+      "date": "2026-11-25",
+      "updated": "2026-11-25",
+      "category": "Energie",
+      "teaser": "Energie: „Bundesnetzagentur: Beirat schlägt Klaus Müller für zweite Amtszeit bis 2032 vor“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundesnetzagentur-klaus-mueller-zweite-amtszeit/",
+      "sourceFile": "2026-11-25-bundesnetzagentur-klaus-mueller-zweite-amtszeit.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Haushaltsausschuss verankert Stromsteuersenkung – Versorger sollen Entlastung weitergeben müssen",
+      "slug": "stromsteuer-haushaltsausschuss-weitergabepflicht",
+      "date": "2026-11-25",
+      "updated": "2026-11-25",
+      "category": "Energie",
+      "teaser": "Energie: „Haushaltsausschuss verankert Stromsteuersenkung – Versorger sollen Entlastung weitergeben müssen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/stromsteuer-haushaltsausschuss-weitergabepflicht/",
+      "sourceFile": "2026-11-25-stromsteuer-haushaltsausschuss-weitergabepflicht.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Photovoltaik-Zubau steigt im Oktober auf geschätzte 1,8 Gigawatt",
       "slug": "pv-zubau-oktober-2026",
       "date": "2026-11-18",
@@ -326,28 +352,15 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Bundesnetzagentur schreibt weitere 3.840 Megawatt Langzeitkapazität aus",
-      "slug": "bnetza-zweite-langzeitkapazitaeten-ausschreibung",
-      "date": "2026-11-11",
-      "updated": "2026-11-11",
-      "category": "Energie",
-      "teaser": "Energie: „Bundesnetzagentur schreibt weitere 3.840 Megawatt Langzeitkapazität aus“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Bundesrat billigt Frühstartrente: Zehn Euro im Monat je Kind ab Januar 2027",
+      "slug": "fruehstartrente-bundesrat-zustimmung",
+      "date": "2026-11-25",
+      "updated": "2026-11-25",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „Bundesrat billigt Frühstartrente: Zehn Euro im Monat je Kind ab Januar 2027“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bnetza-zweite-langzeitkapazitaeten-ausschreibung/",
-      "sourceFile": "2026-11-11-bnetza-zweite-langzeitkapazitaeten-ausschreibung.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "VKU: 38 Prozent der Stadtwerke haben noch keinen Plan für ihr Gasnetz",
-      "slug": "vku-stadtwerke-gasnetze-umfrage",
-      "date": "2026-11-10",
-      "updated": "2026-11-10",
-      "category": "Energie",
-      "teaser": "Energie: „VKU: 38 Prozent der Stadtwerke haben noch keinen Plan für ihr Gasnetz“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vku-stadtwerke-gasnetze-umfrage/",
-      "sourceFile": "2026-11-10-vku-stadtwerke-gasnetze-umfrage.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/fruehstartrente-bundesrat-zustimmung/",
+      "sourceFile": "2026-11-25-fruehstartrente-bundesrat-zustimmung.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -439,19 +452,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/geldwaesche-referentenentwurf-immobilienzugang-2029/",
       "sourceFile": "2026-11-02-geldwaesche-referentenentwurf-immobilienzugang-2029.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundesregierung hält beim WindSeeG an zweistufigen Offshore-Auktionen fest",
-      "slug": "windseeg-gegenaeusserung-regierung-indexierung",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Bundesregierung hält beim WindSeeG an zweistufigen Offshore-Auktionen fest“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/windseeg-gegenaeusserung-regierung-indexierung/",
-      "sourceFile": "2026-10-28-windseeg-gegenaeusserung-regierung-indexierung.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }

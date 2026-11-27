@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:14:14.489Z",
+  "generatedAt": "2026-11-27T04:14:09.733Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -19,26 +19,39 @@
     "Finanzen": 0
   },
   "countsMatchingBeforeLimit": {
-    "Wohnungswirtschaft": 57,
-    "Makler": 42,
+    "Wohnungswirtschaft": 59,
+    "Makler": 43,
     "Regulierung": 26,
-    "Energie": 70
+    "Energie": 72
   },
   "dropped": {
     "byExcludedCategory": {
       "Automatisierung": 18,
-      "KI": 69,
+      "KI": 70,
       "Prozesse": 33
     },
-    "excludedCategoryTotal": 120,
+    "excludedCategoryTotal": 121,
     "softSpainNotMakler": 1,
     "softPureTechAi": 28,
-    "softFinanzenNotImmo": 67,
-    "softTotal": 96
+    "softFinanzenNotImmo": 69,
+    "softTotal": 98
   },
-  "totalMatching": 195,
+  "totalMatching": 200,
   "limitPerCategory": 8,
   "articles": [
+    {
+      "title": "Grunderwerbsteuer: Finanzministerium will Share Deals über Erwerbergruppen ab Juli 2027 erfassen",
+      "slug": "grunderwerbsteuer-share-deals-referentenentwurf",
+      "date": "2026-11-26",
+      "updated": "2026-11-26",
+      "category": "Makler",
+      "teaser": "Makler: „Grunderwerbsteuer: Finanzministerium will Share Deals über Erwerbergruppen ab Juli 2027 erfassen“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/grunderwerbsteuer-share-deals-referentenentwurf/",
+      "sourceFile": "2026-11-26-grunderwerbsteuer-share-deals-referentenentwurf.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
     {
       "title": "Premiumwohnungen in den Top-7-Städten werden 7,6 Prozent günstiger angeboten",
       "slug": "premiumimmobilien-top7-q3-2026",
@@ -131,15 +144,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "TSC kauft Gesundheitsimmobilie mit rund 13.000 Quadratmetern in Stuttgart-Feuerbach",
-      "slug": "tsc-gesundheitsimmobilie-stuttgart-feuerbach",
-      "date": "2026-10-31",
-      "updated": "2026-10-31",
-      "category": "Makler",
-      "teaser": "Makler: „TSC kauft Gesundheitsimmobilie mit rund 13.000 Quadratmetern in Stuttgart-Feuerbach“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/tsc-gesundheitsimmobilie-stuttgart-feuerbach/",
-      "sourceFile": "2026-10-31-tsc-gesundheitsimmobilie-stuttgart-feuerbach.md",
+      "title": "Bauaufträge brechen im September um 16,1 Prozent ein – Hochbau auch im Vorjahresvergleich im Minus",
+      "slug": "bauauftragseingang-september-2026",
+      "date": "2026-11-26",
+      "updated": "2026-11-26",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Bauaufträge brechen im September um 16,1 Prozent ein – Hochbau auch im Vorjahresvergleich im M…“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bauauftragseingang-september-2026/",
+      "sourceFile": "2026-11-26-bauauftragseingang-september-2026.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
+      "title": "Vonovia und Freistaat Bayern vereinbaren Investitionen bis 2031 – bis zu 3.800 Neubauwohnungen geplant",
+      "slug": "vonovia-bayern-absichtserklaerung-2031",
+      "date": "2026-11-26",
+      "updated": "2026-11-26",
+      "category": "Wohnungswirtschaft",
+      "teaser": "Wohnungswirtschaft: „Vonovia und Freistaat Bayern vereinbaren Investitionen bis 2031 – bis zu 3.800 Neubauwohnungen…“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vonovia-bayern-absichtserklaerung-2031/",
+      "sourceFile": "2026-11-26-vonovia-bayern-absichtserklaerung-2031.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -222,28 +248,28 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "BEG-Studie: Förderbasis für Mehrfamilienhäuser sinkt deutlich",
-      "slug": "gdw-ifeu-beg-mehrfamilienhaus-foerderung",
-      "date": "2026-11-06",
-      "updated": "2026-11-06",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „BEG-Studie: Förderbasis für Mehrfamilienhäuser sinkt deutlich“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Monitoringbericht 2026: Haushaltsstrom im Schnitt bei 37,96 Cent, Behörden erwarten wieder steigende Neukundenpreise",
+      "slug": "monitoringbericht-2026-energiemaerkte",
+      "date": "2026-11-26",
+      "updated": "2026-11-26",
+      "category": "Energie",
+      "teaser": "Energie: „Monitoringbericht 2026: Haushaltsstrom im Schnitt bei 37,96 Cent, Behörden erwarten wieder steigende Neuk…“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gdw-ifeu-beg-mehrfamilienhaus-foerderung/",
-      "sourceFile": "2026-11-06-gdw-ifeu-beg-mehrfamilienhaus-foerderung.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/monitoringbericht-2026-energiemaerkte/",
+      "sourceFile": "2026-11-26-monitoringbericht-2026-energiemaerkte.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
-      "title": "Bauturbo: Nur acht Prozent der GdW-Unternehmen melden einen konkreten Einsatz",
-      "slug": "gdw-bauturbo-jahresbilanz-acht-prozent",
-      "date": "2026-11-04",
-      "updated": "2026-11-04",
-      "category": "Wohnungswirtschaft",
-      "teaser": "Wohnungswirtschaft: „Bauturbo: Nur acht Prozent der GdW-Unternehmen melden einen konkreten Einsatz“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "title": "Vattenfall erhöht Berliner Grundversorgungstarif ab Februar 2027 auf 42,44 Cent je Kilowattstunde",
+      "slug": "vattenfall-berlin-grundversorgung-strompreis-2027",
+      "date": "2026-11-26",
+      "updated": "2026-11-26",
+      "category": "Energie",
+      "teaser": "Energie: „Vattenfall erhöht Berliner Grundversorgungstarif ab Februar 2027 auf 42,44 Cent je Kilowattstunde“ — Quelle: Digitalisierungsplanung Aktuell.",
       "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/gdw-bauturbo-jahresbilanz-acht-prozent/",
-      "sourceFile": "2026-11-04-gdw-bauturbo-jahresbilanz.md",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/vattenfall-berlin-grundversorgung-strompreis-2027/",
+      "sourceFile": "2026-11-26-vattenfall-berlin-grundversorgung-strompreis-2027.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
@@ -322,32 +348,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/agora-waermenetzpaket-mieterschutz/",
       "sourceFile": "2026-11-13-agora-waermenetzpaket-mieterschutz.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundestag beschließt 5,525 Milliarden Euro Netzkostenzuschuss pro Jahr",
-      "slug": "bundestag-netzkostenzuschuss-2027-2029",
-      "date": "2026-11-13",
-      "updated": "2026-11-13",
-      "category": "Energie",
-      "teaser": "Energie: „Bundestag beschließt 5,525 Milliarden Euro Netzkostenzuschuss pro Jahr“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/bundestag-netzkostenzuschuss-2027-2029/",
-      "sourceFile": "2026-11-13-bundestag-netzkostenzuschuss-2027-2029.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Bundeskabinett beschließt strategische Gasreserve mit 24 Terawattstunden",
-      "slug": "strategische-gasreserve-kabinettsbeschluss",
-      "date": "2026-11-12",
-      "updated": "2026-11-12",
-      "category": "Energie",
-      "teaser": "Energie: „Bundeskabinett beschließt strategische Gasreserve mit 24 Terawattstunden“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/strategische-gasreserve-kabinettsbeschluss/",
-      "sourceFile": "2026-11-12-strategische-gasreserve-kabinettsbeschluss.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },

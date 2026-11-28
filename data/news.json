@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:14:09.733Z",
+  "generatedAt": "2026-11-28T04:13:33.709Z",
   "source": "ChristianHohlfeld/aktuell.digitalisierungsplanung.de",
   "sourceLabel": "Digitalisierungsplanung Aktuell",
   "sourceHome": "https://aktuell.digitalisierungsplanung.de/",
@@ -21,7 +21,7 @@
   "countsMatchingBeforeLimit": {
     "Wohnungswirtschaft": 59,
     "Makler": 43,
-    "Regulierung": 26,
+    "Regulierung": 27,
     "Energie": 72
   },
   "dropped": {
@@ -36,7 +36,7 @@
     "softFinanzenNotImmo": 69,
     "softTotal": 98
   },
-  "totalMatching": 200,
+  "totalMatching": 201,
   "limitPerCategory": 8,
   "articles": [
     {
@@ -352,6 +352,19 @@
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     },
     {
+      "title": "EU-Kommission legt Quantum Act vor – Vergabevorrang für EU-kontrollierte Anbieter und 50-Milliarden-Fonds als Ziel",
+      "slug": "eu-quantum-act-sovereign-tech-equity-fund",
+      "date": "2026-11-27",
+      "updated": "2026-11-27",
+      "category": "Regulierung",
+      "teaser": "Regulierung: „EU-Kommission legt Quantum Act vor – Vergabevorrang für EU-kontrollierte Anbieter und 50-Milliarden-F…“ — Quelle: Digitalisierungsplanung Aktuell.",
+      "author": "Christian Heinrich Hohlfeld",
+      "url": "https://aktuell.digitalisierungsplanung.de/artikel/eu-quantum-act-sovereign-tech-equity-fund/",
+      "sourceFile": "2026-11-27-eu-quantum-act-sovereign-tech-equity-fund.md",
+      "source": "Digitalisierungsplanung Aktuell",
+      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
+    },
+    {
       "title": "Bundesrat billigt Frühstartrente: Zehn Euro im Monat je Kind ab Januar 2027",
       "slug": "fruehstartrente-bundesrat-zustimmung",
       "date": "2026-11-25",
@@ -439,19 +452,6 @@
       "author": "Christian Heinrich Hohlfeld",
       "url": "https://aktuell.digitalisierungsplanung.de/artikel/tkg-anhoerung-glasfaserentgelt-540-euro/",
       "sourceFile": "2026-11-04-tkg-anhoerung-glasfaserentgelt.md",
-      "source": "Digitalisierungsplanung Aktuell",
-      "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
-    },
-    {
-      "title": "Geldwäsche-Entwurf: Immobilienregister-Zugang für Behörden ab 2029 geplant",
-      "slug": "geldwaesche-referentenentwurf-immobilienzugang-2029",
-      "date": "2026-11-02",
-      "updated": "2026-11-02",
-      "category": "Regulierung",
-      "teaser": "Regulierung: „Geldwäsche-Entwurf: Immobilienregister-Zugang für Behörden ab 2029 geplant“ — Quelle: Digitalisierungsplanung Aktuell.",
-      "author": "Christian Heinrich Hohlfeld",
-      "url": "https://aktuell.digitalisierungsplanung.de/artikel/geldwaesche-referentenentwurf-immobilienzugang-2029/",
-      "sourceFile": "2026-11-02-geldwaesche-referentenentwurf-immobilienzugang-2029.md",
       "source": "Digitalisierungsplanung Aktuell",
       "sourceUrl": "https://aktuell.digitalisierungsplanung.de/"
     }
